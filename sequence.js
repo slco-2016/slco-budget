@@ -88,7 +88,7 @@ function mouseover(d) {
       .style("visibility", "");
 
   var sequenceArray = getAncestors(d);
-  updateBreadcrumbs(sequenceArray, percentageString);
+  updateBreadcrumbs(sequenceArray, "$" + Math.round((100 * d.value))/100);
 
   // Fade all the segments.
   d3.selectAll("path")
@@ -146,7 +146,7 @@ function initializeBreadcrumbTrail() {
   // Add the label at the end, for the percentage.
   trail.append("svg:text")
     .attr("id", "endlabel")
-    .style("fill", "#000");
+    .style("fill", "rgba(0,0,0,0.7)");
 }
 
 // Generate a string that describes the points of a breadcrumb polygon.
@@ -195,7 +195,7 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 
   // Now move and update the percentage at the end.
   d3.select("#trail").select("#endlabel")
-      .attr("x", (nodeArray.length + 0.2) * (b.w + b.s))
+      .attr("x", (nodeArray.length + 0.4) * (b.w + b.s))
       .attr("y", b.h / 2)
       .attr("dy", "0.35em")
       .attr("text-anchor", "middle")

@@ -80,7 +80,7 @@
 		};
 
 		console.log("DONE"); console.log(fundhues);
-
+		width = $(window).innerWidth() - 220;
 		createD3(csv.join("\n"))
 	});
 
@@ -117,6 +117,7 @@
 	    zoom: 12
 	});
 	map.addLayer(layer);
+
 
 </script>
 
