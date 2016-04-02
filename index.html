@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Utah Budget Viz</title>
+</head>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
+
+<body>
+
+	<header>
+		Moos
+	</header>
+
+	<div id="contents">
+
+		
+
+	</div>
+
+</body>
+
+<script type="text/javascript">
+	
+	var budget = {};
+
+	$.get("budget.json")
+	.fail(function (e) {
+		console.log(e);
+	})
+	.done(function (r) {
+		console.log(r);
+	});
+
+</script>
+
+</html>

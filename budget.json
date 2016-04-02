@@ -1,0 +1,5775 @@
+{
+  "LIBRARY FUND": {
+    "total": 76816610.37999998,
+    "accts": {
+      "EMP INS-REGENCE CO": {
+        "total": 3204,
+        "specifics": {
+          "EMP INS-REGENCE CO": 3204
+        }
+      },
+      "EMP INS-REGENCE EMP": {
+        "total": 208,
+        "specifics": {
+          "EMP INS-REGENCE EMP": 208
+        }
+      },
+      "EMP INS-REGENCE HSA CO": {
+        "total": -1200,
+        "specifics": {
+          "EMP INS-REGENCE HSA CO": -1200
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 0
+        }
+      },
+      "INSURANCE - HYATT LEGAL": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE - HYATT LEGAL": 0
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      },
+      "CASH-PAYROLL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-PAYROLL WARRANTS": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      },
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 8493378.56,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 8493378.56
+        }
+      },
+      "CFB - FOR COMPENSATED ABSENCES": {
+        "total": 433301.81,
+        "specifics": {
+          "CFB - FOR COMPENSATED ABSENCES": 433301.81
+        }
+      },
+      "CFB - FOR OPEB": {
+        "total": 318726,
+        "specifics": {
+          "CFB - FOR OPEB": 318726
+        }
+      },
+      "RFB - LIBRARY ONGOING MAINT": {
+        "total": 402323.61,
+        "specifics": {
+          "RFB - LIBRARY ONGOING MAINT": 402323.61
+        }
+      },
+      "RFB - MAGNA LIBRARY": {
+        "total": 848691.92,
+        "specifics": {
+          "RFB - MAGNA LIBRARY": 848691.92
+        }
+      },
+      "RFB - LIBRARY TECHNOLOGY": {
+        "total": 76173.71,
+        "specifics": {
+          "RFB - LIBRARY TECHNOLOGY": 76173.71
+        }
+      },
+      "RFB - LIBRARY GREEN PROJECT": {
+        "total": 754337.76,
+        "specifics": {
+          "RFB - LIBRARY GREEN PROJECT": 754337.76
+        }
+      },
+      "RFB-ANIMAL SERVICES": {
+        "total": 0,
+        "specifics": {
+          "RFB-ANIMAL SERVICES": 0
+        }
+      },
+      "NFB-LONG TERM RECEIVABLE": {
+        "total": 5837015,
+        "specifics": {
+          "NFB-LONG TERM RECEIVABLE": 5837015
+        }
+      },
+      "NET POSITION IR - OPEB": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - OPEB": 0
+        }
+      },
+      "NET POSITION IR - COMP ABSENCE": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - COMP ABSENCE": 0
+        }
+      },
+      "NET POSITION-ASSETS": {
+        "total": 2434541.51,
+        "specifics": {
+          "NET POSITION-ASSETS": 2434541.51
+        }
+      },
+      "NET POSITION - DEBT": {
+        "total": -1199245.94,
+        "specifics": {
+          "NET POSITION - DEBT": -1199245.94
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 15131607.84,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 15131607.84
+        }
+      },
+      "UNAVAILABLE PROPERTY TAX REVEN": {
+        "total": 1281497.85,
+        "specifics": {
+          "UNAVAILABLE PROPERTY TAX REVEN": 1281497.85
+        }
+      },
+      "DEFERRED REVENUES": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED REVENUES": 0
+        }
+      },
+      "UNEARNED REVENUE": {
+        "total": 21713.23,
+        "specifics": {
+          "UNEARNED REVENUE": 21713.23
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "OBLIG-COMPSATED ABSNC VACATION": {
+        "total": 1199245.94,
+        "specifics": {
+          "OBLIG-COMPSATED ABSNC VACATION": 1199245.94
+        }
+      },
+      "UNCLAIMED PROPERTY LIABILITY": {
+        "total": 2579.66,
+        "specifics": {
+          "UNCLAIMED PROPERTY LIABILITY": 2579.66
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 41717.12,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 41717.12
+        }
+      },
+      "ACCRUED EXPENSE PAYABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED EXPENSE PAYABLE": 0
+        }
+      },
+      "HSA - WELLNESS INCENTIVE": {
+        "total": 0,
+        "specifics": {
+          "HSA - WELLNESS INCENTIVE": 0
+        }
+      },
+      "EMP INS - EMI DENTAL EMP": {
+        "total": -7.3,
+        "specifics": {
+          "EMP INS - EMI DENTAL EMP": -7.3
+        }
+      },
+      "EMP INS - ALTIUS EMP": {
+        "total": -55.54,
+        "specifics": {
+          "EMP INS - ALTIUS EMP": -55.54
+        }
+      },
+      "EMP INS - SELECTHEALTH CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH CO": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH EMP": 0
+        }
+      },
+      "EMP INS - SELECTHLTH HSA CO": {
+        "total": 675,
+        "specifics": {
+          "EMP INS - SELECTHLTH HSA CO": 675
+        }
+      },
+      "MEMBERSHIP FEES COLLECTED": {
+        "total": 0,
+        "specifics": {
+          "MEMBERSHIP FEES COLLECTED": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": 51435.19,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": 51435.19
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 3002.9,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 3002.9
+        }
+      },
+      "COUNTY URS 401(K) CONTRIB": {
+        "total": 18765.09,
+        "specifics": {
+          "COUNTY URS 401(K) CONTRIB": 18765.09
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 112301.56,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 112301.56
+        }
+      },
+      "EMPLOYEEROTH IRA": {
+        "total": 1958.63,
+        "specifics": {
+          "EMPLOYEEROTH IRA": 1958.63
+        }
+      },
+      "EMPLOYEE TRADITIONAL IRA": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE TRADITIONAL IRA": 0
+        }
+      },
+      "EMP HSA EMPLOYEE HSA CONTRIB": {
+        "total": 9807.7,
+        "specifics": {
+          "EMP HSA EMPLOYEE HSA CONTRIB": 9807.7
+        }
+      },
+      "WAGE ASSIGNMENTS-FEES": {
+        "total": 0,
+        "specifics": {
+          "WAGE ASSIGNMENTS-FEES": 0
+        }
+      },
+      "WAGE ASMTS-401(K) LOAN REPAYME": {
+        "total": 5263.76,
+        "specifics": {
+          "WAGE ASMTS-401(K) LOAN REPAYME": 5263.76
+        }
+      },
+      "DEFERRED COMP-PEBSCO 457": {
+        "total": 348.59,
+        "specifics": {
+          "DEFERRED COMP-PEBSCO 457": 348.59
+        }
+      },
+      "EMP DE-EMPLOYEE 401K CONTRIB": {
+        "total": 24894.57,
+        "specifics": {
+          "EMP DE-EMPLOYEE 401K CONTRIB": 24894.57
+        }
+      },
+      "EMP DC EMPLOYEE 457 CONTRIB": {
+        "total": 6005.32,
+        "specifics": {
+          "EMP DC EMPLOYEE 457 CONTRIB": 6005.32
+        }
+      },
+      "EMPLOYEE GARNISHMENTS": {
+        "total": 1762.58,
+        "specifics": {
+          "EMPLOYEE GARNISHMENTS": 1762.58
+        }
+      },
+      "EMPLOYEE ASSOCIATIONS": {
+        "total": 256.12,
+        "specifics": {
+          "EMPLOYEE ASSOCIATIONS": 256.12
+        }
+      },
+      "UNION DUES": {
+        "total": 40,
+        "specifics": {
+          "UNION DUES": 40
+        }
+      },
+      "CHARITABLE CONTRIBUTIONS": {
+        "total": 627.32,
+        "specifics": {
+          "CHARITABLE CONTRIBUTIONS": 627.32
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": 0,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": 0
+        }
+      },
+      "STATE WITHHOLDING": {
+        "total": 41069.48,
+        "specifics": {
+          "STATE WITHHOLDING": 41069.48
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 51435.19,
+        "specifics": {
+          "FICA - EMPLOYEE": 51435.19
+        }
+      },
+      "FEDERAL WITHHOLDINGS": {
+        "total": 62068.43,
+        "specifics": {
+          "FEDERAL WITHHOLDINGS": 62068.43
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 4454.36,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 4454.36
+        }
+      },
+      "INSURANCE LIBERTY - AUTO HOME": {
+        "total": 1334.82,
+        "specifics": {
+          "INSURANCE LIBERTY - AUTO HOME": 1334.82
+        }
+      },
+      "INSURANCE MET - AUTO HOME": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE MET - AUTO HOME": 0
+        }
+      },
+      "INSURANCE - THE STANDARD STD": {
+        "total": 424.44,
+        "specifics": {
+          "INSURANCE - THE STANDARD STD": 424.44
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 456540.97,
+        "specifics": {
+          "ACCRUED PAYROLL": 456540.97
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 1474078.43,
+        "specifics": {
+          "VOUCHERS PAYABLE": 1474078.43
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -2783339.5,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -2783339.5
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 4449031.75,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 4449031.75
+        }
+      },
+      "ACCUM DEPR LAND IMPROVEMENTS": {
+        "total": -342052.97,
+        "specifics": {
+          "ACCUM DEPR LAND IMPROVEMENTS": -342052.97
+        }
+      },
+      "ACCUM DEPR LEASEHOLD IMPROVMNT": {
+        "total": -104395.12,
+        "specifics": {
+          "ACCUM DEPR LEASEHOLD IMPROVMNT": -104395.12
+        }
+      },
+      "LEASEHOLD IMPROVEMENTS": {
+        "total": 259361.79,
+        "specifics": {
+          "LEASEHOLD IMPROVEMENTS": 259361.79
+        }
+      },
+      "LAND IMPROVEMENTS": {
+        "total": 749752.11,
+        "specifics": {
+          "LAND IMPROVEMENTS": 749752.11
+        }
+      },
+      "ACCUM DEPR BUILDINGS": {
+        "total": -10254966.78,
+        "specifics": {
+          "ACCUM DEPR BUILDINGS": -10254966.78
+        }
+      },
+      "BUILDINGS/BLDG IMPROVEMENTS": {
+        "total": 22890649.85,
+        "specifics": {
+          "BUILDINGS/BLDG IMPROVEMENTS": 22890649.85
+        }
+      },
+      "LAND": {
+        "total": 2702108.22,
+        "specifics": {
+          "LAND": 2702108.22
+        }
+      },
+      "OTHER PREPAID EXPENSES": {
+        "total": 1995.16,
+        "specifics": {
+          "OTHER PREPAID EXPENSES": 1995.16
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "NMTC LOAN RECEIVABLE MAGNA LIB": {
+        "total": 5837015,
+        "specifics": {
+          "NMTC LOAN RECEIVABLE MAGNA LIB": 5837015
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 3832.21,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 3832.21
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 2335.64,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 2335.64
+        }
+      },
+      "A/R - BILLINGS": {
+        "total": 0,
+        "specifics": {
+          "A/R - BILLINGS": 0
+        }
+      },
+      "ACCRUED GRANTS RECEIVABLE": {
+        "total": 65829,
+        "specifics": {
+          "ACCRUED GRANTS RECEIVABLE": 65829
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 1412805.08,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 1412805.08
+        }
+      },
+      "CASH-PETTY (IMPREST)": {
+        "total": 8775.55,
+        "specifics": {
+          "CASH-PETTY (IMPREST)": 8775.55
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 13509568.2,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 13509568.2
+        }
+      },
+      "CASH-DEPARTMENTAL RECEIPTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-DEPARTMENTAL RECEIPTS": 0
+        }
+      }
+    }
+  },
+  "HOUSING PROGRAMS": {
+    "total": 5489842.42,
+    "accts": {
+      "VOUCHERS PAYABLE": {
+        "total": 0,
+        "specifics": {
+          "VOUCHERS PAYABLE": 0
+        }
+      },
+      "A/R RDA HOUSING": {
+        "total": 467365,
+        "specifics": {
+          "A/R RDA HOUSING": 467365
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 2277556.21,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 2277556.21
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 2744921.21,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 2744921.21
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      }
+    }
+  },
+  "ZAP TAX FUND": {
+    "total": 10416098.719999997,
+    "accts": {
+      "EMPLOYEE TRADITIONAL IRA": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE TRADITIONAL IRA": 0
+        }
+      },
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 2276835.52,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 2276835.52
+        }
+      },
+      "CFB-FOR LOCAL ARTS AGENCIES": {
+        "total": 1651.32,
+        "specifics": {
+          "CFB-FOR LOCAL ARTS AGENCIES": 1651.32
+        }
+      },
+      "CFB - FOR COMPENSATED ABSENCES": {
+        "total": 1901.55,
+        "specifics": {
+          "CFB - FOR COMPENSATED ABSENCES": 1901.55
+        }
+      },
+      "CFB - FOR OPEB": {
+        "total": 435,
+        "specifics": {
+          "CFB - FOR OPEB": 435
+        }
+      },
+      "RFB-BOND RETIREMENT": {
+        "total": 377210.74,
+        "specifics": {
+          "RFB-BOND RETIREMENT": 377210.74
+        }
+      },
+      "NET POSITION IR - OPEB": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - OPEB": 0
+        }
+      },
+      "NET POSITION IR - COMP ABSENCE": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - COMP ABSENCE": 0
+        }
+      },
+      "NET POSITION - DEBT": {
+        "total": -16944152.07,
+        "specifics": {
+          "NET POSITION - DEBT": -16944152.07
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": -13563065.07,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": -13563065.07
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "PRIOR YEARS ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "PRIOR YEARS ENCUMBRANCES": 0
+        }
+      },
+      "ST 2012A REFUNDING": {
+        "total": 29601825,
+        "specifics": {
+          "ST 2012A REFUNDING": 29601825
+        }
+      },
+      "ST SALT PALACE 2005": {
+        "total": 896325,
+        "specifics": {
+          "ST SALT PALACE 2005": 896325
+        }
+      },
+      "OBLIG-SALES TAX REVENUE BONDS": {
+        "total": 0,
+        "specifics": {
+          "OBLIG-SALES TAX REVENUE BONDS": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "OBLIG-COMPSATED ABSNC VACATION": {
+        "total": 9067.14,
+        "specifics": {
+          "OBLIG-COMPSATED ABSNC VACATION": 9067.14
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 283800,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 283800
+        }
+      },
+      "EMP INS-REGENCE CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS-REGENCE CO": 0
+        }
+      },
+      "EMP INS-REGENCE EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS-REGENCE EMP": 0
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL EMP": 0
+        }
+      },
+      "MEMBERSHIP FEES COLLECTED": {
+        "total": 0,
+        "specifics": {
+          "MEMBERSHIP FEES COLLECTED": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": 241.32,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": 241.32
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 25.96,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 25.96
+        }
+      },
+      "COUNTY URS 401(K) CONTRIB": {
+        "total": 345.11,
+        "specifics": {
+          "COUNTY URS 401(K) CONTRIB": 345.11
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 692,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 692
+        }
+      },
+      "EMPLOYEEROTH IRA": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEEROTH IRA": 0
+        }
+      },
+      "EMP HSA EMPLOYEE HSA CONTRIB": {
+        "total": 0,
+        "specifics": {
+          "EMP HSA EMPLOYEE HSA CONTRIB": 0
+        }
+      },
+      "WAGE ASMTS-401(K) LOAN REPAYME": {
+        "total": 0,
+        "specifics": {
+          "WAGE ASMTS-401(K) LOAN REPAYME": 0
+        }
+      },
+      "DEFERRED COMP-PEBSCO 457": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED COMP-PEBSCO 457": 0
+        }
+      },
+      "EMP DE-EMPLOYEE 401K CONTRIB": {
+        "total": 0,
+        "specifics": {
+          "EMP DE-EMPLOYEE 401K CONTRIB": 0
+        }
+      },
+      "EMP DC EMPLOYEE 457 CONTRIB": {
+        "total": 0,
+        "specifics": {
+          "EMP DC EMPLOYEE 457 CONTRIB": 0
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": 0,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": 0
+        }
+      },
+      "STATE WITHHOLDING": {
+        "total": 398.4,
+        "specifics": {
+          "STATE WITHHOLDING": 398.4
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 440.86,
+        "specifics": {
+          "FICA - EMPLOYEE": 440.86
+        }
+      },
+      "FEDERAL WITHHOLDINGS": {
+        "total": 659.28,
+        "specifics": {
+          "FEDERAL WITHHOLDINGS": 659.28
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 62.5,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 62.5
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 3920.67,
+        "specifics": {
+          "ACCRUED PAYROLL": 3920.67
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 2259429.13,
+        "specifics": {
+          "VOUCHERS PAYABLE": 2259429.13
+        }
+      },
+      "TEMPORARY SUSPENSE": {
+        "total": 0,
+        "specifics": {
+          "TEMPORARY SUSPENSE": 0
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0.26,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0.26
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 2638265.76,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 2638265.76
+        }
+      },
+      "CASH-HELD BY TRUSTEE-BOND": {
+        "total": 375.92,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-BOND": 375.92
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 2569407.42,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 2569407.42
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-PAYROLL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-PAYROLL WARRANTS": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "JUDGMENT LEVY FUND": {
+    "total": 0,
+    "accts": {
+      "CASH-MISCELLANEOUS": {
+        "total": 0,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 0
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      }
+    }
+  },
+  "HEALTH FUND": {
+    "total": 38414665.39999999,
+    "accts": {
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      },
+      "CASH-PAYROLL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-PAYROLL WARRANTS": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      },
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 6419828.13,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 6419828.13
+        }
+      },
+      "AFB-ASSIGNED FUND BALANCE": {
+        "total": 461525.62,
+        "specifics": {
+          "AFB-ASSIGNED FUND BALANCE": 461525.62
+        }
+      },
+      "CFB - FOR COMPENSATED ABSENCES": {
+        "total": 377041.59,
+        "specifics": {
+          "CFB - FOR COMPENSATED ABSENCES": 377041.59
+        }
+      },
+      "CFB - FOR OPEB": {
+        "total": 151562,
+        "specifics": {
+          "CFB - FOR OPEB": 151562
+        }
+      },
+      "RFB-BOND RETIREMENT": {
+        "total": 35.63,
+        "specifics": {
+          "RFB-BOND RETIREMENT": 35.63
+        }
+      },
+      "NET POSITION IR - OPEB": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - OPEB": 0
+        }
+      },
+      "NET POSITION IR - COMP ABSENCE": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - COMP ABSENCE": 0
+        }
+      },
+      "NET POSITION - DEBT": {
+        "total": -1390932.02,
+        "specifics": {
+          "NET POSITION - DEBT": -1390932.02
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 9862536.2,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 9862536.2
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "UNAVAILABLE PROPERTY TAX REVEN": {
+        "total": 381100.1,
+        "specifics": {
+          "UNAVAILABLE PROPERTY TAX REVEN": 381100.1
+        }
+      },
+      "DEFERRED REVENUES": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED REVENUES": 0
+        }
+      },
+      "UNEARNED REVENUE": {
+        "total": 0,
+        "specifics": {
+          "UNEARNED REVENUE": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "OBLIG-COMPSATED ABSNC VACATION": {
+        "total": 1390932.02,
+        "specifics": {
+          "OBLIG-COMPSATED ABSNC VACATION": 1390932.02
+        }
+      },
+      "OBLIG-ENV HLTH CLOSURE & POSTC": {
+        "total": 198133.08,
+        "specifics": {
+          "OBLIG-ENV HLTH CLOSURE & POSTC": 198133.08
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 2959.52,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 2959.52
+        }
+      },
+      "HSA - WELLNESS INCENTIVE": {
+        "total": 0,
+        "specifics": {
+          "HSA - WELLNESS INCENTIVE": 0
+        }
+      },
+      "EMP INS-REGENCE CO": {
+        "total": 584,
+        "specifics": {
+          "EMP INS-REGENCE CO": 584
+        }
+      },
+      "EMP INS-REGENCE EMP": {
+        "total": 132,
+        "specifics": {
+          "EMP INS-REGENCE EMP": 132
+        }
+      },
+      "EMP INS-REGENCE HSA CO": {
+        "total": -600,
+        "specifics": {
+          "EMP INS-REGENCE HSA CO": -600
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL EMP": {
+        "total": 27.7,
+        "specifics": {
+          "EMP INS - EMI DENTAL EMP": 27.7
+        }
+      },
+      "EMP INS - ALTIUS EMP": {
+        "total": 123.41,
+        "specifics": {
+          "EMP INS - ALTIUS EMP": 123.41
+        }
+      },
+      "EMP INS - SELECTHEALTH CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH CO": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH EMP": {
+        "total": 131.5,
+        "specifics": {
+          "EMP INS - SELECTHEALTH EMP": 131.5
+        }
+      },
+      "EMP INS - SELECTHLTH HSA CO": {
+        "total": 105,
+        "specifics": {
+          "EMP INS - SELECTHLTH HSA CO": 105
+        }
+      },
+      "MEMBERSHIP FEES COLLECTED": {
+        "total": 0,
+        "specifics": {
+          "MEMBERSHIP FEES COLLECTED": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": 47389.24,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": 47389.24
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 3022.45,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 3022.45
+        }
+      },
+      "COUNTY URS 401(K) CONTRIB": {
+        "total": 21123.61,
+        "specifics": {
+          "COUNTY URS 401(K) CONTRIB": 21123.61
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 109020.68,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 109020.68
+        }
+      },
+      "EMPLOYEEROTH IRA": {
+        "total": 1484.68,
+        "specifics": {
+          "EMPLOYEEROTH IRA": 1484.68
+        }
+      },
+      "EMPLOYEE TRADITIONAL IRA": {
+        "total": 25,
+        "specifics": {
+          "EMPLOYEE TRADITIONAL IRA": 25
+        }
+      },
+      "EMP HSA EMPLOYEE HSA CONTRIB": {
+        "total": 9113.97,
+        "specifics": {
+          "EMP HSA EMPLOYEE HSA CONTRIB": 9113.97
+        }
+      },
+      "WAGE ASSIGNMENTS-FEES": {
+        "total": 0,
+        "specifics": {
+          "WAGE ASSIGNMENTS-FEES": 0
+        }
+      },
+      "WAGE ASMTS-401(K) LOAN REPAYME": {
+        "total": 7103.09,
+        "specifics": {
+          "WAGE ASMTS-401(K) LOAN REPAYME": 7103.09
+        }
+      },
+      "DEFERRED COMP-PEBSCO 457": {
+        "total": 119.62,
+        "specifics": {
+          "DEFERRED COMP-PEBSCO 457": 119.62
+        }
+      },
+      "EMP DE-EMPLOYEE 401K CONTRIB": {
+        "total": 20036.4,
+        "specifics": {
+          "EMP DE-EMPLOYEE 401K CONTRIB": 20036.4
+        }
+      },
+      "EMP DC EMPLOYEE 457 CONTRIB": {
+        "total": 4103.43,
+        "specifics": {
+          "EMP DC EMPLOYEE 457 CONTRIB": 4103.43
+        }
+      },
+      "EMPLOYEE GARNISHMENTS": {
+        "total": 1491.66,
+        "specifics": {
+          "EMPLOYEE GARNISHMENTS": 1491.66
+        }
+      },
+      "EMPLOYEE ASSOCIATIONS": {
+        "total": 318.18,
+        "specifics": {
+          "EMPLOYEE ASSOCIATIONS": 318.18
+        }
+      },
+      "UNION DUES": {
+        "total": 218,
+        "specifics": {
+          "UNION DUES": 218
+        }
+      },
+      "CHARITABLE CONTRIBUTIONS": {
+        "total": 17.5,
+        "specifics": {
+          "CHARITABLE CONTRIBUTIONS": 17.5
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": 0,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": 0
+        }
+      },
+      "STATE WITHHOLDING": {
+        "total": 50996.29,
+        "specifics": {
+          "STATE WITHHOLDING": 50996.29
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 47389.24,
+        "specifics": {
+          "FICA - EMPLOYEE": 47389.24
+        }
+      },
+      "FEDERAL WITHHOLDINGS": {
+        "total": 65623.2,
+        "specifics": {
+          "FEDERAL WITHHOLDINGS": 65623.2
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 6069.07,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 6069.07
+        }
+      },
+      "INSURANCE - HYATT LEGAL": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE - HYATT LEGAL": 0
+        }
+      },
+      "INSURANCE LIBERTY - AUTO HOME": {
+        "total": 2820.5,
+        "specifics": {
+          "INSURANCE LIBERTY - AUTO HOME": 2820.5
+        }
+      },
+      "INSURANCE MET - AUTO HOME": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE MET - AUTO HOME": 0
+        }
+      },
+      "INSURANCE - THE STANDARD STD": {
+        "total": 634.56,
+        "specifics": {
+          "INSURANCE - THE STANDARD STD": 634.56
+        }
+      },
+      "LEGISLATIVE TRUST COLLECTIONS": {
+        "total": 0,
+        "specifics": {
+          "LEGISLATIVE TRUST COLLECTIONS": 0
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 449353.46,
+        "specifics": {
+          "ACCRUED PAYROLL": 449353.46
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 504633.39,
+        "specifics": {
+          "VOUCHERS PAYABLE": 504633.39
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -930058.32,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -930058.32
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 1114151.73,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 1114151.73
+        }
+      },
+      "ACCUM DEPR LAND IMPROVEMENTS": {
+        "total": -315532.69,
+        "specifics": {
+          "ACCUM DEPR LAND IMPROVEMENTS": -315532.69
+        }
+      },
+      "ACCUM DEPR LEASEHOLD IMPROVMNT": {
+        "total": -976411.94,
+        "specifics": {
+          "ACCUM DEPR LEASEHOLD IMPROVMNT": -976411.94
+        }
+      },
+      "LEASEHOLD IMPROVEMENTS": {
+        "total": 976411.94,
+        "specifics": {
+          "LEASEHOLD IMPROVEMENTS": 976411.94
+        }
+      },
+      "LAND IMPROVEMENTS": {
+        "total": 617607.11,
+        "specifics": {
+          "LAND IMPROVEMENTS": 617607.11
+        }
+      },
+      "ACCUM DEPR BUILDINGS": {
+        "total": -5524711.64,
+        "specifics": {
+          "ACCUM DEPR BUILDINGS": -5524711.64
+        }
+      },
+      "BUILDINGS/BLDG IMPROVEMENTS": {
+        "total": 13916436.1,
+        "specifics": {
+          "BUILDINGS/BLDG IMPROVEMENTS": 13916436.1
+        }
+      },
+      "CONSTRUCTION IN PROCESS": {
+        "total": 65950,
+        "specifics": {
+          "CONSTRUCTION IN PROCESS": 65950
+        }
+      },
+      "LAND": {
+        "total": 918693.91,
+        "specifics": {
+          "LAND": 918693.91
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0.03,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0.03
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 212424.5,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 212424.5
+        }
+      },
+      "A/R - BILLINGS": {
+        "total": 0,
+        "specifics": {
+          "A/R - BILLINGS": 0
+        }
+      },
+      "A/R - BILLING DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "A/R - BILLING DEFAULT": 0
+        }
+      },
+      "ACCRUED GRANTS RECEIVABLE": {
+        "total": 1259634.19,
+        "specifics": {
+          "ACCRUED GRANTS RECEIVABLE": 1259634.19
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 419258.03,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 419258.03
+        }
+      },
+      "CASH-PETTY (IMPREST)": {
+        "total": 28375,
+        "specifics": {
+          "CASH-PETTY (IMPREST)": 28375
+        }
+      },
+      "CASH-HELD BY TRUSTEE-BOND": {
+        "total": 35.63,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-BOND": 35.63
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 7425069.12,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 7425069.12
+        }
+      },
+      "CASH-DEPARTMENTAL RECEIPTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-DEPARTMENTAL RECEIPTS": 0
+        }
+      }
+    }
+  },
+  "PLANETARIUM FUND": {
+    "total": 17131705.560000002,
+    "accts": {
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "OBLIG-COMPSATED ABSNC VACATION": {
+        "total": 135353.91,
+        "specifics": {
+          "OBLIG-COMPSATED ABSNC VACATION": 135353.91
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 0,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 0
+        }
+      },
+      "HSA - WELLNESS INCENTIVE": {
+        "total": 0,
+        "specifics": {
+          "HSA - WELLNESS INCENTIVE": 0
+        }
+      },
+      "EMP INS-REGENCE CO": {
+        "total": 1168,
+        "specifics": {
+          "EMP INS-REGENCE CO": 1168
+        }
+      },
+      "EMP INS-REGENCE EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS-REGENCE EMP": 0
+        }
+      },
+      "EMP INS-REGENCE HSA CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS-REGENCE HSA CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL EMP": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH CO": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH EMP": 0
+        }
+      },
+      "EMP INS - SELECTHLTH HSA CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHLTH HSA CO": 0
+        }
+      },
+      "MEMBERSHIP FEES COLLECTED": {
+        "total": 0,
+        "specifics": {
+          "MEMBERSHIP FEES COLLECTED": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": 12982.93,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": 12982.93
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 307.56,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 307.56
+        }
+      },
+      "COUNTY URS 401(K) CONTRIB": {
+        "total": 2160.69,
+        "specifics": {
+          "COUNTY URS 401(K) CONTRIB": 2160.69
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 11029.85,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 11029.85
+        }
+      },
+      "EMPLOYEEROTH IRA": {
+        "total": 235,
+        "specifics": {
+          "EMPLOYEEROTH IRA": 235
+        }
+      },
+      "EMPLOYEE TRADITIONAL IRA": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE TRADITIONAL IRA": 0
+        }
+      },
+      "EMP HSA EMPLOYEE HSA CONTRIB": {
+        "total": 1453.66,
+        "specifics": {
+          "EMP HSA EMPLOYEE HSA CONTRIB": 1453.66
+        }
+      },
+      "WAGE ASMTS-401(K) LOAN REPAYME": {
+        "total": 762,
+        "specifics": {
+          "WAGE ASMTS-401(K) LOAN REPAYME": 762
+        }
+      },
+      "DEFERRED COMP-PEBSCO 457": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED COMP-PEBSCO 457": 0
+        }
+      },
+      "EMP DE-EMPLOYEE 401K CONTRIB": {
+        "total": 1047.63,
+        "specifics": {
+          "EMP DE-EMPLOYEE 401K CONTRIB": 1047.63
+        }
+      },
+      "EMP DC EMPLOYEE 457 CONTRIB": {
+        "total": 311.32,
+        "specifics": {
+          "EMP DC EMPLOYEE 457 CONTRIB": 311.32
+        }
+      },
+      "EMPLOYEE GARNISHMENTS": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE GARNISHMENTS": 0
+        }
+      },
+      "UNION DUES": {
+        "total": 10,
+        "specifics": {
+          "UNION DUES": 10
+        }
+      },
+      "CHARITABLE CONTRIBUTIONS": {
+        "total": 44,
+        "specifics": {
+          "CHARITABLE CONTRIBUTIONS": 44
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": 0.01,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": 0.01
+        }
+      },
+      "STATE WITHHOLDING": {
+        "total": 5497.41,
+        "specifics": {
+          "STATE WITHHOLDING": 5497.41
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 12982.93,
+        "specifics": {
+          "FICA - EMPLOYEE": 12982.93
+        }
+      },
+      "FEDERAL WITHHOLDINGS": {
+        "total": 16570.23,
+        "specifics": {
+          "FEDERAL WITHHOLDINGS": 16570.23
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 62.5,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 62.5
+        }
+      },
+      "INSURANCE - HYATT LEGAL": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE - HYATT LEGAL": 0
+        }
+      },
+      "INSURANCE MET - AUTO HOME": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE MET - AUTO HOME": 0
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 61872.2,
+        "specifics": {
+          "ACCRUED PAYROLL": 61872.2
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 105883.83,
+        "specifics": {
+          "VOUCHERS PAYABLE": 105883.83
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -2264964.58,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -2264964.58
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 4571405.57,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 4571405.57
+        }
+      },
+      "ACCUM DEPR BUILDINGS": {
+        "total": -4930868.05,
+        "specifics": {
+          "ACCUM DEPR BUILDINGS": -4930868.05
+        }
+      },
+      "BUILDINGS/BLDG IMPROVEMENTS": {
+        "total": 16539322.97,
+        "specifics": {
+          "BUILDINGS/BLDG IMPROVEMENTS": 16539322.97
+        }
+      },
+      "CONSTRUCTION IN PROCESS": {
+        "total": 418408.64,
+        "specifics": {
+          "CONSTRUCTION IN PROCESS": 418408.64
+        }
+      },
+      "INVENTORY": {
+        "total": 151235,
+        "specifics": {
+          "INVENTORY": 151235
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0.02,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0.02
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 22570,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 22570
+        }
+      },
+      "ACCRUED GRANTS RECEIVABLE": {
+        "total": 425000,
+        "specifics": {
+          "ACCRUED GRANTS RECEIVABLE": 425000
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 114423.39,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 114423.39
+        }
+      },
+      "CASH-PETTY (IMPREST)": {
+        "total": 55200,
+        "specifics": {
+          "CASH-PETTY (IMPREST)": 55200
+        }
+      },
+      "CASH-HELD BY TRUSTEE-BOND": {
+        "total": 45.3,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-BOND": 45.3
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 1660191.64,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 1660191.64
+        }
+      },
+      "CASH-DEPARTMENTAL RECEIPTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-DEPARTMENTAL RECEIPTS": 0
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      },
+      "CASH-PAYROLL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-PAYROLL WARRANTS": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "LIBRARY FUND-JUDGMENT LEVY FUND": {
+    "total": 0,
+    "accts": {
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 0
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      }
+    }
+  },
+  "REDEVELOPMENT AGENCY OF SL CO": {
+    "total": 6604220.92,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 3235864.36,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 3235864.36
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 36196.54,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 36196.54
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 30000,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 30000
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH CO": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": 0.01,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": 0.01
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 0,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 0
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 0,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 0
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": 0.04,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": 0.04
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 49.51,
+        "specifics": {
+          "FICA - EMPLOYEE": 49.51
+        }
+      },
+      "INSURANCE LIBERTY - AUTO HOME": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE LIBERTY - AUTO HOME": 0
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 0,
+        "specifics": {
+          "VOUCHERS PAYABLE": 0
+        }
+      },
+      "ACCUM DEPR LAND IMPROVEMENTS": {
+        "total": -84635.28,
+        "specifics": {
+          "ACCUM DEPR LAND IMPROVEMENTS": -84635.28
+        }
+      },
+      "LAND IMPROVEMENTS": {
+        "total": 120831.82,
+        "specifics": {
+          "LAND IMPROVEMENTS": 120831.82
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 3265913.92,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 3265913.92
+        }
+      },
+      "CASH-PAYROLL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-PAYROLL WARRANTS": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "STATE TAX ADM-JUDGMENT LEVY FD": {
+    "total": 0,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 0,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 0
+        }
+      },
+      "DUE TO GEN FUND-NEGATIVE CASH": {
+        "total": 0,
+        "specifics": {
+          "DUE TO GEN FUND-NEGATIVE CASH": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 0
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 0,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 0
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      }
+    }
+  },
+  "STATE TAX ADMINISTRATION LEVY": {
+    "total": 33430990.560000002,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 5756042.03,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 5756042.03
+        }
+      },
+      "CFB - FOR COMPENSATED ABSENCES": {
+        "total": 216301.12,
+        "specifics": {
+          "CFB - FOR COMPENSATED ABSENCES": 216301.12
+        }
+      },
+      "CFB - FOR OPEB": {
+        "total": 77964,
+        "specifics": {
+          "CFB - FOR OPEB": 77964
+        }
+      },
+      "RFB - TAX ADMINISTRATION": {
+        "total": 1133165.39,
+        "specifics": {
+          "RFB - TAX ADMINISTRATION": 1133165.39
+        }
+      },
+      "NET POSITION IR - OPEB": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - OPEB": 0
+        }
+      },
+      "NET POSITION IR - COMP ABSENCE": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - COMP ABSENCE": 0
+        }
+      },
+      "NET POSITION-ASSETS": {
+        "total": 5692894.08,
+        "specifics": {
+          "NET POSITION-ASSETS": 5692894.08
+        }
+      },
+      "NET POSITION - DEBT": {
+        "total": -857307.29,
+        "specifics": {
+          "NET POSITION - DEBT": -857307.29
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 1551613.56,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 1551613.56
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "PRIOR YEARS ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "PRIOR YEARS ENCUMBRANCES": 0
+        }
+      },
+      "UNAVAILABLE PROPERTY TAX REVEN": {
+        "total": 778206.75,
+        "specifics": {
+          "UNAVAILABLE PROPERTY TAX REVEN": 778206.75
+        }
+      },
+      "DEFERRED REVENUES": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED REVENUES": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "OBLIG-COMPSATED ABSNC VACATION": {
+        "total": 857307.29,
+        "specifics": {
+          "OBLIG-COMPSATED ABSNC VACATION": 857307.29
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 266694.37,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 266694.37
+        }
+      },
+      "ACCRUED EXPENSE PAYABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED EXPENSE PAYABLE": 0
+        }
+      },
+      "HSA - WELLNESS INCENTIVE": {
+        "total": 0,
+        "specifics": {
+          "HSA - WELLNESS INCENTIVE": 0
+        }
+      },
+      "EMP INS-REGENCE CO": {
+        "total": 2036,
+        "specifics": {
+          "EMP INS-REGENCE CO": 2036
+        }
+      },
+      "EMP INS-REGENCE EMP": {
+        "total": 208,
+        "specifics": {
+          "EMP INS-REGENCE EMP": 208
+        }
+      },
+      "EMP INS-REGENCE HSA CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS-REGENCE HSA CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL EMP": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH CO": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH EMP": 0
+        }
+      },
+      "EMP INS - SELECTHLTH HSA CO": {
+        "total": 590,
+        "specifics": {
+          "EMP INS - SELECTHLTH HSA CO": 590
+        }
+      },
+      "MEMBERSHIP FEES COLLECTED": {
+        "total": 0,
+        "specifics": {
+          "MEMBERSHIP FEES COLLECTED": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": 37457.29,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": 37457.29
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 2116.33,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 2116.33
+        }
+      },
+      "COUNTY URS 401(K) CONTRIB": {
+        "total": 16330.45,
+        "specifics": {
+          "COUNTY URS 401(K) CONTRIB": 16330.45
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 75874.48,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 75874.48
+        }
+      },
+      "EMPLOYEEROTH IRA": {
+        "total": 880.44,
+        "specifics": {
+          "EMPLOYEEROTH IRA": 880.44
+        }
+      },
+      "EMPLOYEE TRADITIONAL IRA": {
+        "total": 15,
+        "specifics": {
+          "EMPLOYEE TRADITIONAL IRA": 15
+        }
+      },
+      "EMP HSA EMPLOYEE HSA CONTRIB": {
+        "total": 7736.94,
+        "specifics": {
+          "EMP HSA EMPLOYEE HSA CONTRIB": 7736.94
+        }
+      },
+      "WAGE ASSIGNMENTS-FEES": {
+        "total": 0,
+        "specifics": {
+          "WAGE ASSIGNMENTS-FEES": 0
+        }
+      },
+      "WAGE ASMTS-401(K) LOAN REPAYME": {
+        "total": 8974.49,
+        "specifics": {
+          "WAGE ASMTS-401(K) LOAN REPAYME": 8974.49
+        }
+      },
+      "DEFERRED COMP-PEBSCO 457": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED COMP-PEBSCO 457": 0
+        }
+      },
+      "EMP DE-EMPLOYEE 401K CONTRIB": {
+        "total": 15665.73,
+        "specifics": {
+          "EMP DE-EMPLOYEE 401K CONTRIB": 15665.73
+        }
+      },
+      "EMP DC EMPLOYEE 457 CONTRIB": {
+        "total": 3362.51,
+        "specifics": {
+          "EMP DC EMPLOYEE 457 CONTRIB": 3362.51
+        }
+      },
+      "EMPLOYEE GARNISHMENTS": {
+        "total": 680.38,
+        "specifics": {
+          "EMPLOYEE GARNISHMENTS": 680.38
+        }
+      },
+      "EMPLOYEE ASSOCIATIONS": {
+        "total": 73.25,
+        "specifics": {
+          "EMPLOYEE ASSOCIATIONS": 73.25
+        }
+      },
+      "UNION DUES": {
+        "total": 241.03,
+        "specifics": {
+          "UNION DUES": 241.03
+        }
+      },
+      "CHARITABLE CONTRIBUTIONS": {
+        "total": 15,
+        "specifics": {
+          "CHARITABLE CONTRIBUTIONS": 15
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": 0,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": 0
+        }
+      },
+      "STATE WITHHOLDING": {
+        "total": 40315.47,
+        "specifics": {
+          "STATE WITHHOLDING": 40315.47
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 37457.28,
+        "specifics": {
+          "FICA - EMPLOYEE": 37457.28
+        }
+      },
+      "FEDERAL WITHHOLDINGS": {
+        "total": 56589.54,
+        "specifics": {
+          "FEDERAL WITHHOLDINGS": 56589.54
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 2400.48,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 2400.48
+        }
+      },
+      "INSURANCE - HYATT LEGAL": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE - HYATT LEGAL": 0
+        }
+      },
+      "INSURANCE LIBERTY - AUTO HOME": {
+        "total": 1644.56,
+        "specifics": {
+          "INSURANCE LIBERTY - AUTO HOME": 1644.56
+        }
+      },
+      "INSURANCE MET - AUTO HOME": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE MET - AUTO HOME": 0
+        }
+      },
+      "INSURANCE - THE STANDARD STD": {
+        "total": 83.25,
+        "specifics": {
+          "INSURANCE - THE STANDARD STD": 83.25
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 305721.83,
+        "specifics": {
+          "ACCRUED PAYROLL": 305721.83
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 626144.25,
+        "specifics": {
+          "VOUCHERS PAYABLE": 626144.25
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -2329141.11,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -2329141.11
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 2926216.34,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 2926216.34
+        }
+      },
+      "CONSTRUCTION IN PROCESS": {
+        "total": 6647432.41,
+        "specifics": {
+          "CONSTRUCTION IN PROCESS": 6647432.41
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 2309.14,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 2309.14
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 7045.5,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 7045.5
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 855533.66,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 855533.66
+        }
+      },
+      "CASH-PETTY (IMPREST)": {
+        "total": 51300,
+        "specifics": {
+          "CASH-PETTY (IMPREST)": 51300
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 8554799.34,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 8554799.34
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      },
+      "CASH-PAYROLL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-PAYROLL WARRANTS": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "VISITOR PROMOTION FUND": {
+    "total": 9386154.06,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 223449.22,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 223449.22
+        }
+      },
+      "AFB-AMER SOC OF ASSOC EXEC MTG": {
+        "total": 550000,
+        "specifics": {
+          "AFB-AMER SOC OF ASSOC EXEC MTG": 550000
+        }
+      },
+      "CFB-COMMITTED FUND BALANCE": {
+        "total": 2622151.98,
+        "specifics": {
+          "CFB-COMMITTED FUND BALANCE": 2622151.98
+        }
+      },
+      "NFB-LONG TERM RECEIVABLE": {
+        "total": 450000,
+        "specifics": {
+          "NFB-LONG TERM RECEIVABLE": 450000
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 802475.83,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 802475.83
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 45000,
+        "specifics": {
+          "VOUCHERS PAYABLE": 45000
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -195337.8,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -195337.8
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 195337.8,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 195337.8
+        }
+      },
+      "ACCUM DEPR BUILDINGS": {
+        "total": -650542.15,
+        "specifics": {
+          "ACCUM DEPR BUILDINGS": -650542.15
+        }
+      },
+      "BUILDINGS/BLDG IMPROVEMENTS": {
+        "total": 1453017.98,
+        "specifics": {
+          "BUILDINGS/BLDG IMPROVEMENTS": 1453017.98
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "LOAN RECEIVABLE HOLLADAY": {
+        "total": 450000,
+        "specifics": {
+          "LOAN RECEIVABLE HOLLADAY": 450000
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 299.63,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 299.63
+        }
+      },
+      "A/R MISCELLANEOUS RECEIVABLES": {
+        "total": 0,
+        "specifics": {
+          "A/R MISCELLANEOUS RECEIVABLES": 0
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 1992285.29,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 1992285.29
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 1448016.28,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 1448016.28
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "OPEN SPACE": {
+    "total": 50226520.49000001,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 1082677.41,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 1082677.41
+        }
+      },
+      "CFB - FOR COMPENSATED ABSENCES": {
+        "total": 1520.72,
+        "specifics": {
+          "CFB - FOR COMPENSATED ABSENCES": 1520.72
+        }
+      },
+      "CFB - FOR OPEB": {
+        "total": 435,
+        "specifics": {
+          "CFB - FOR OPEB": 435
+        }
+      },
+      "NET POSITION IR - OPEB": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - OPEB": 0
+        }
+      },
+      "NET POSITION IR - COMP ABSENCE": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - COMP ABSENCE": 0
+        }
+      },
+      "NET POSITION - DEBT": {
+        "total": -2918.32,
+        "specifics": {
+          "NET POSITION - DEBT": -2918.32
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 49124805.02,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 49124805.02
+        }
+      },
+      "GRANT REVENUE COLLECTED IN ADV": {
+        "total": 4984.5,
+        "specifics": {
+          "GRANT REVENUE COLLECTED IN ADV": 4984.5
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "OBLIG-COMPSATED ABSNC VACATION": {
+        "total": 2918.32,
+        "specifics": {
+          "OBLIG-COMPSATED ABSNC VACATION": 2918.32
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL EMP": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH CO": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH EMP": 0
+        }
+      },
+      "MEMBERSHIP FEES COLLECTED": {
+        "total": 0,
+        "specifics": {
+          "MEMBERSHIP FEES COLLECTED": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": 346.46,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": 346.46
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 19.6,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 19.6
+        }
+      },
+      "COUNTY URS 401(K) CONTRIB": {
+        "total": 122.49,
+        "specifics": {
+          "COUNTY URS 401(K) CONTRIB": 122.49
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 754.09,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 754.09
+        }
+      },
+      "EMPLOYEEROTH IRA": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEEROTH IRA": 0
+        }
+      },
+      "EMPLOYEE TRADITIONAL IRA": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE TRADITIONAL IRA": 0
+        }
+      },
+      "EMP HSA EMPLOYEE HSA CONTRIB": {
+        "total": 0,
+        "specifics": {
+          "EMP HSA EMPLOYEE HSA CONTRIB": 0
+        }
+      },
+      "WAGE ASMTS-401(K) LOAN REPAYME": {
+        "total": 0,
+        "specifics": {
+          "WAGE ASMTS-401(K) LOAN REPAYME": 0
+        }
+      },
+      "DEFERRED COMP-PEBSCO 457": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED COMP-PEBSCO 457": 0
+        }
+      },
+      "EMP DE-EMPLOYEE 401K CONTRIB": {
+        "total": 146.73,
+        "specifics": {
+          "EMP DE-EMPLOYEE 401K CONTRIB": 146.73
+        }
+      },
+      "EMP DC EMPLOYEE 457 CONTRIB": {
+        "total": 0,
+        "specifics": {
+          "EMP DC EMPLOYEE 457 CONTRIB": 0
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": 0.34,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": 0.34
+        }
+      },
+      "STATE WITHHOLDING": {
+        "total": 250.91,
+        "specifics": {
+          "STATE WITHHOLDING": 250.91
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 346.46,
+        "specifics": {
+          "FICA - EMPLOYEE": 346.46
+        }
+      },
+      "FEDERAL WITHHOLDINGS": {
+        "total": 506.58,
+        "specifics": {
+          "FEDERAL WITHHOLDINGS": 506.58
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 167.92,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 167.92
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 2940.55,
+        "specifics": {
+          "ACCRUED PAYROLL": 2940.55
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 1200,
+        "specifics": {
+          "VOUCHERS PAYABLE": 1200
+        }
+      },
+      "LAND IMPROVEMENTS": {
+        "total": 5295.71,
+        "specifics": {
+          "LAND IMPROVEMENTS": 5295.71
+        }
+      }
+    }
+  },
+  "THE GENERAL FUND": {
+    "total": 50892058.87999841,
+    "accts": {
+      "INTER/INTRA FUND REVENUES": {
+        "total": -939.6399999999553,
+        "specifics": {
+          "EMP INS-BASIC LIFE CO MATCH": 1.79958478674358e-13,
+          "EMP INS - EMI DENTAL EMP": -2.9309887850104133e-13,
+          "EMP INS - ALTIUS EMP": 2.7284841053187847e-12,
+          "EMP INS - ALTIUS HDHP CO": -1.8189894035458565e-12,
+          "EMP INS - SELECTHEALTH CO": 3.092281986027956e-11,
+          "EMP INS - EMI DENTAL CO": -374.40000000000424,
+          "EMP INS - SELECTHEALTH EMP": 3.637978807091713e-12,
+          "EMP INS - SELECTHLTH HDHP CO": -424.0000000000018,
+          "EMP INS - ALTIUS CO": -4.547473508864641e-11,
+          "EMP INS - SELECTHLTH HSA CO": 1.1368683772161603e-12,
+          "MEMBERSHIP FEES COLLECTED": -141.23999999999978,
+          "EMP INS - ALTIUS HSA CO": -5.684341886080802e-14,
+          "EMP INS - ALTIUS HDHP EMP": 0
+        }
+      },
+      "CHARGES FOR SERVICES": {
+        "total": 5535081.809999999,
+        "specifics": {
+          "SALE-MTRLS,SUPL,CNTRL ASSETS": 22974.839999999997,
+          "MAYOR'S FINANCE ADMIN FEES": 575,
+          "MISCELLANEOUS REVENUE": 137837.95,
+          "RECORDERS FEE": 479238.32999999996,
+          "STATE REVENUE CONTRACTS": 2062237,
+          "BAIL BOND PROCESSING FEE": 4305,
+          "JAIL INDUSTRIES SERVICES": 15,
+          "DATA SERVICE": 121261.72,
+          "VICE EVIDENCE FORFEITURES": 29770.79,
+          "RESTITUTION": 2082.09,
+          "ATTORNEY FEES": 68037.46999999999,
+          "ELECTION SERVICES": 1637.61,
+          "MARRIAGE LICENSE": 55581.929999999986,
+          "PASSPORT LICENSE": 57945,
+          "RENTAL INCOME": 103803.78,
+          "REFUNDS-OTHER": 42647.56,
+          "RESTITUTION-LEGAL DEFENDERS": 958.5799999999999,
+          "LOCAL GOVERNMENT GRANTS": 220219.5,
+          "CONCESSIONS": 15000,
+          "CLIENT FEES": 198921.07,
+          "SURVEYOR FEES": -100,
+          "LOCAL REVENUE CONTRACTS": 61645,
+          "PUB LAND CORNER PRESERVATION F": 3150,
+          "PUBLIC SUREVEY MONUMENT FEES": 9600,
+          "RECREATION FEES": 1618853.5,
+          "CONSTABLE MONITORING FEES": 3750,
+          "COMMISSIONS": 62058.59,
+          "THIRD DISTRICT COURT FINES": 150474.5,
+          "DRUG COURT ELECTRONIC MONITORI": 600
+        }
+      },
+      "OPERATING GRANTS & CONTRIBUTIO": {
+        "total": 306904.4,
+        "specifics": {
+          "FEDERAL GOVERNMENT GRANTS": 256135.4,
+          "STATE GOVERNMENT GRANTS": 50769
+        }
+      },
+      "MATERIALS AND SUPPLIES": {
+        "total": 8401805.760000004,
+        "specifics": {
+          "MOBILE TELEPHONE": 83481.73000000005,
+          "VEHICLE RENTAL CHARGES": 4730.259999999999,
+          "POSTAGE": 13489.94,
+          "FACILITIES MANAGEMENT CHARGES": 126159.45,
+          "PRINTING CHARGES": 24150.93,
+          "MILEAGE ALLOWANCE": 9117.069999999998,
+          "TRAVEL & TRANSPRTATN-EMPLOYEES": 94593.22999999997,
+          "OFFICE SUPPLIES": 53127.06000000004,
+          "OTHER PROFESSIONAL FEES": 4923159.569999999,
+          "CONSULTANTS' FEES": 91450,
+          "RENT - BUILDINGS": 499684.62,
+          "SUBSCRIPTIONS & MEMBERSHIPS": 333563.4199999999,
+          "EDUCATION & TRAINING SERV/SUPP": 83281.54,
+          "DEVELOPMENT ADVERTISING": 2824.2,
+          "MEALS & REFRESHMENTS": 8072.890000000001,
+          "COMPUTER SUPPLIES": 782.15,
+          "COMPUTER SOFTWARE <$5,000": 22062.1,
+          "PETTY CASH REPLENISH": 802.59,
+          "TELEPHONE": 147149.7,
+          "MAINTENANCE - OFFICE EQUIP": 71355.11,
+          "PHYSICAL MATERIALS-BOOKS": 1552.91,
+          "RENT - EQUIPMENT": 12663.51,
+          "MAINT - AUTOS & EQUIP-FLEET": 85129.74000000002,
+          "GASOLINE, DIESEL, OIL & GREASE": 78843.89000000003,
+          "TRAVEL & TRANSPRTATN-CLIENTS": 21676.84,
+          "SMALL EQUIPMENT (NON-COMPUTER)": 24528.9,
+          "MAPS AND PLAT SUPPLIES": 0,
+          "MAINTENANCE - SOFTWARE": 271054.20999999996,
+          "COMPUTERS & COMPONENTS <$5000": 10699.94,
+          "MAINTENANCE - BUILDINGS": 24013.83000000001,
+          "MAINT - MACHINERY AND EQUIP": 88997.59,
+          "MAINT - PLUMBING,HEAT,& AC": 878.9400000000005,
+          "JANITORIAL SUPPLIES & SERVICE": 68922.91,
+          "FOOD PROVISIONS": 370801.8599999999,
+          "PUBLIC NOTICES": 322,
+          "HEAT AND FUEL": 235537.5,
+          "PRESERVATION": 216,
+          "CONTRACTED LABOR/PROJECTS": 215496.06999999992,
+          "WATER AND SEWER": 48983.67,
+          "DINING AND KITCHEN SUPPLIES": 840.3699999999999,
+          "LAUNDRY SUPPLIES AND SERVICES": 376.87,
+          "LIGHT AND POWER": 130580.43000000001,
+          "MISCELLANEOUS RENTAL CHARGES": 57.75,
+          "CLOTHING PROVISIONS": 3604.7400000000002,
+          "MAINTENANCE - ROADS & STREETS": 897.68,
+          "MAINTENANCE - GROUNDS": 3295.12,
+          "SAFETY SUPPLIES": 478.05,
+          "MAINT - SWIMMING POOLS": 3788.72,
+          "RECREATIONAL SUPPLIES & SERV": 60854.39999999999,
+          "COMMISSARY PROVISIONS": 19804.7,
+          "PHYSICAL MATERIAL-AUDIO/VISUAL": 2218.57,
+          "MEDICAL SUPPLIES": 1841.49,
+          "COMMUNICATION EQUIP-NONCAPITAL": 6995.379999999999,
+          "INTERNET/DATA COMMUNICATIONS": 7324.320000000001,
+          "MICROFILMING AND BLUEPRINTING": 96,
+          "PERSONAL PROVISIONS": 475.8,
+          "RENT - LAND": 2070,
+          "TAXI CAB FARES": 2847.5
+        }
+      },
+      "OTHER OPERATING EXPENSE 2": {
+        "total": 1350260.8300000005,
+        "specifics": {
+          "VOIP TEL EQUIP PURCH 2010-2012": 10415.500000000002,
+          "AFTERSCHOOL PROGRAM": 81424.23000000001,
+          "SOCIAL SERVICES BLOCK GRANT": 91682.07999999999,
+          "NOTARY,SURETY &FIDELITY BONDS": 70,
+          "INSURANCE": 25073.91,
+          "CD PASS THRU ESG": 35082.04,
+          "COMM DEV PASS THRU GRANT CONTR": 203940.46000000002,
+          "CONTRIBUTIONS": 120884,
+          "COMM DEV PASS THRU GRANT CITY": 24500,
+          "HOME PASS THRU GRANT CONTRACTS": 229506.72999999992,
+          "SUSTAINABLE COMMNII GRANT EXPN": 488653.93999999994,
+          "REFUGEE MENTAL HEALTH SERVICES": 12970,
+          "CD PASS THRU LEAD BASED PAINT": 13258.75,
+          "HEALTH INCENTIVES": 11200,
+          "SELF-INSURANCE EXPENSE": 1599.19
+        }
+      },
+      "EMPLOYEE COMPENSATION": {
+        "total": 26157969.09999569,
+        "specifics": {
+          "SOCIAL SECURITY TAXES": 1347499.4499999927,
+          "TEMPORARY,SEASONAL,EMERGENCY": 1359989.7099999986,
+          "FED & STATE FNDED TRAINING PRO": 49978.92999999999,
+          "HEALTH INSURANCE PREMIUMS": 2864385.7800003034,
+          "LTD CONTRIBUTIONS": 95731.37000000101,
+          "RETIREMENT OR PENSION CONTRIB": 3033054.6700000693,
+          "SUPPLEMENTAL RETIREMENT (401K)": 455921.2900000015,
+          "TIME LIMITED EMPLOYEE": 76581.39999999997,
+          "OVERTIME": 80553.42000000006,
+          "ELECTED AND EXEMPT SALARY": 1371073.3099999994,
+          "PERMANENT AND PROVISIONAL": 10309105.02000017,
+          "UNIFORM ALLOW-PUBLIC SAFETY": 28823.29,
+          "PERM AND PROV-PUBLIC SAFETY": 4111102.880000042,
+          "PROF,TECH,MANAG-PUBLIC SAFETY": 809941.96,
+          "LUMP SUM VACATION PAY": 93821.84,
+          "EMPLOYEE AWARDS/SERVICE PINS": 2150,
+          "LUMP SUM SICK PAY": 27489.200000000004,
+          "PROFESSIONAL,TECH,MANAGERIAL": 40765.58,
+          "EMPLOYEE SERV RES FUND CHARGES": 0
+        }
+      },
+      "OTHER OPERATING EXPENSE 1": {
+        "total": 25221.19,
+        "specifics": {
+          "RECYCLING ACTIVITIES": 53.4,
+          "SURVEYOR'S MONUMENTS": 5246.75,
+          "SHOP,CREW,&DEPUTY SMALL TOOLS": 1783.64,
+          "CONTRACT HAULING": 15217.35,
+          "LABORATORY SUPPLIES": 2920.05
+        }
+      },
+      "PROPERTY TAXES": {
+        "total": 445632.32000000007,
+        "specifics": {
+          "PRIOR YEAR REDEMPTIONS": 60059.02000000002,
+          "LATE FEES PRIOR YR REDEMPTIONS": 55296.51999999999,
+          "GENERAL PROPERTY TAX": 259386.55,
+          "PERSONAL PROPERTY TAX": 69358.67,
+          "SP DIST CERT COLL 60% PEN INT": 1531.56
+        }
+      },
+      "STATE MANDATED EXPENSE": {
+        "total": 7974870.470000005,
+        "specifics": {
+          "INCUSTODY MEDICAL OUTSIDE SERV": 62247.32,
+          "IN-CUSTODY MEDICAL SUPPLIES": 13397.150000000001,
+          "IN-CUSTODY AMBULANCE": 22124.669999999907,
+          "COURT REPORTER FEES": 3465,
+          "INDIGENT LEGAL-CONFLICT": 279224.5,
+          "INDIGENT LEGAL-LEGAL DEFENDER": 6055839,
+          "INDIGENT LEGAL-BAR SERVICES": 1342328.1099999999,
+          "CAREER SERVICE COUNCIL": 1200,
+          "WITNESS - SUMMONS AND TRAVEL": 16528.519999999997,
+          "INCUSTODY CONTRACTED HEALTH": 169674.36,
+          "IN-CUSTODY DENTAL": 8841.84
+        }
+      },
+      "CAPITAL EXPENDITURES": {
+        "total": 11286.4,
+        "specifics": {
+          "OFFICE FURN, EQUIP,SOFTWR>5000": 10527.52,
+          "ART": 758.88
+        }
+      },
+      "SALE OF CAPITAL ASSETS": {
+        "total": 69900,
+        "specifics": {
+          "SALE ASSETS-CLEARING ACCOUNT": 69900
+        }
+      },
+      "FEE IN LIEU OF TAXES": {
+        "total": 567849.79,
+        "specifics": {
+          "MOTOR VEH FEE IN LIEU OF TAXES": 567849.79
+        }
+      },
+      "INVESTMENT EARNINGS": {
+        "total": 44911.51,
+        "specifics": {
+          "INT-TAX POOL": 12012.75,
+          "DISTRIBUTIONS FROM SOLID WASTE": 32898.76
+        }
+      },
+      "OTHER NONOPERATING EXPENSE": {
+        "total": 1304.94,
+        "specifics": {
+          "COSTS IN HANDLING COLLECTIONS": 1304.94
+        }
+      }
+    }
+  },
+  "SPECIAL REVENUE FUND": {
+    "total": 66548840.259995,
+    "accts": {
+      "INTER/INTRA FUND REVENUES": {
+        "total": 11782.679999999807,
+        "specifics": {
+          "EMP INS - SELECTHEALTH EMP": 3.410605131648481e-12,
+          "EMP INS - SELECTHLTH HDHP EMP": 1.1368683772161603e-13,
+          "MEMBERSHIP FEES COLLECTED": 1.936228954946273e-13,
+          "EMP INS-BASIC LIFE CO MATCH": 0.3700000000000021,
+          "EMP INS - SELECTHEALTH CO": 1.6370904631912708e-11,
+          "EMP INS - EMI DENTAL CO": 29.199999999997612,
+          "EMP INS - EMI DENTAL EMP": 7.300000000000156,
+          "EMP INS - ALTIUS CO": 379.00000000000546,
+          "EMP INS - ALTIUS EMP": 84.99999999999864,
+          "EMP INS - ALTIUS HDHP CO": -2.2737367544323206e-13,
+          "EMP INS - SELECTHLTH HDHP CO": 4.547473508864641e-13,
+          "EMP INS - SELECTHLTH HSA CO": 0,
+          "EMP INS - ALTIUS HSA CO": 0,
+          "INTRAFUND REVENUE": 10946.81,
+          "EMP INS - ALTIUS HDHP EMP": 0,
+          "INTERFUND REVENUE": 335
+        }
+      },
+      "CHARGES FOR SERVICES": {
+        "total": 5052082.209999998,
+        "specifics": {
+          "SALE-MTRLS,SUPL,CNTRL ASSETS": 109273.28,
+          "MISCELLANEOUS REVENUE": 25330.860000000073,
+          "RENTAL INCOME": 7007.820000000001,
+          "CLIENT FEES": 55,
+          "J P COURT FINES": 176799.23000000004,
+          "MEDICAL OFFICE FEE": 42709.5,
+          "REFUNDS-OTHER": 807.53,
+          "HIGHWAY CHARGES": 1081759.3399999999,
+          "SPECIAL EVENTS PERMIT": 400,
+          "SEWER AND WATER PERMITS": 43346,
+          "LOCAL GOVERNMENT GRANTS": 323483.16000000003,
+          "PET LICENSES": 136892.65,
+          "BLDG, PLUMBING, ELECT PERMITS": 620595.8,
+          "BUSINESS LICENSE": -1010,
+          "PLANETARIUM DEPOSITORIES": 163142.29,
+          "RENT - EQUESTRIAN PARK": 80192.14,
+          "CONCESSIONS": 12205.54,
+          "COMMISSIONS": 2500,
+          "MISC PLANETARIUM PROGRAMS": 388.74,
+          "SHOW DISTRIBUTION": 8625,
+          "DEVELOPMENT & PROMOTION FEES": 111,
+          "IMAX ADMISSIONS": 42574.33,
+          "BOOKSTORE": 37046.89,
+          "MEMBERSHIPS": 15011.05,
+          "SHOW ADMISSIONS": 19437.22,
+          "LIGHT SHOWS": 12969.84,
+          "RENT - FINE ARTS": 200,
+          "LIBRARY FINES & FORFEITURES": 322367.44,
+          "RESTITUTION": 2450.8,
+          "DIVISION ON AGING": 114521.71,
+          "MAC TRAVEL CLINIC": 91639.03,
+          "VITAL STATISTICS": 168848.5,
+          "FAMILY HEALTH FEE": 1919,
+          "IMMUNIZATIONS": 235273.33000000002,
+          "ENVIRONMENTAL HEALTH PENALTIES": 11145.83,
+          "WATER BUREAU": 568395.1,
+          "SANITATION": 52909.37,
+          "FOOD BUREAU": 300956,
+          "AIR BUREAU": 24044,
+          "COMM SERV FEE": 5728.12,
+          "EMISSION FEES": 189384,
+          "PROPERTY CLEANUP": 645.77
+        }
+      },
+      "OPERATING GRANTS & CONTRIBUTIO": {
+        "total": 5080989.02,
+        "specifics": {
+          "OPRTG CONTRIBUTIONS-RESTRICTED": 27766,
+          "FEDERAL GOVERNMENT GRANTS": 4891227.02,
+          "OPERATNG CONTRIBUTIONS-GENERAL": 480,
+          "STATE GOVERNMENT GRANTS": 161516
+        }
+      },
+      "EMPLOYEE COMPENSATION": {
+        "total": 22919505.310001004,
+        "specifics": {
+          "RETIREMENT OR PENSION CONTRIB": 2449458.6599999825,
+          "OVERTIME": 64632.6000000001,
+          "PERMANENT AND PROVISIONAL": 14381383.980000218,
+          "SOCIAL SECURITY TAXES": 1160919.769999971,
+          "LTD CONTRIBUTIONS": 88055.92000000074,
+          "HEALTH INSURANCE PREMIUMS": 2800714.6000001836,
+          "SUPPLEMENTAL RETIREMENT (401K)": 459653.9399999994,
+          "TEMPORARY,SEASONAL,EMERGENCY": 909132.350000008,
+          "TIME LIMITED EMPLOYEE": 147736.20000000007,
+          "ELECTED AND EXEMPT SALARY": 262060.44000000003,
+          "EMPLOYEE AWARDS/SERVICE PINS": 3350,
+          "PERM AND PROV-PUBLIC SAFETY": 2.842170943040401e-14,
+          "LUMP SUM VACATION PAY": 62438.170000000006,
+          "LUMP SUM SICK PAY": 8100.15,
+          "UNEMPLOYMENT": 488.26,
+          "EMPLOYEE SERV RES FUND CHARGES": -2.9103830456733704e-11,
+          "FED & STATE FNDED TRAINING PRO": 97452.5,
+          "PROFESSIONAL,TECH,MANAGERIAL": 23908.67,
+          "EMPLOYEE WELLNESS INCENTIVES": 19.1
+        }
+      },
+      "MATERIALS AND SUPPLIES": {
+        "total": 10701951.100000063,
+        "specifics": {
+          "FOOD PROVISIONS": 381362.36000000074,
+          "TRAVEL & TRANSPRTATN-EMPLOYEES": 103446.99999999994,
+          "HEAT AND FUEL": 169276.65999999986,
+          "JANITORIAL SUPPLIES & SERVICE": 58892.24,
+          "LIGHT AND POWER": 166280.63999999996,
+          "EDUCATION & TRAINING SERV/SUPP": 154342.29,
+          "WATER AND SEWER": 14857.769999999997,
+          "OTHER PROFESSIONAL FEES": 114350.00000000004,
+          "OFFICE SUPPLIES": 44563.50000000006,
+          "IDENTIFICATION SUPPLIES": 5174.46,
+          "MOBILE TELEPHONE": 72393.89000000003,
+          "TELEPHONE": 161423.31999999992,
+          "PRINTING CHARGES": 121926.53,
+          "MILEAGE ALLOWANCE": 47976.770000000004,
+          "PERSONAL PROVISIONS": 431.1300000000001,
+          "DINING AND KITCHEN SUPPLIES": 5438.509999999999,
+          "MAINTENANCE - BUILDINGS": 90181.50999999992,
+          "RENT - BUILDINGS": 135504.02000000002,
+          "PHYSICAL MATERIAL-AUDIO/VISUAL": 2410.6900000000005,
+          "RECREATIONAL SUPPLIES & SERV": 6868.959999999998,
+          "SMALL EQUIPMENT (NON-COMPUTER)": 84566.38000000002,
+          "MEALS & REFRESHMENTS": 5635.079999999998,
+          "MEDICAL SUPPLIES": 37990.97999999995,
+          "MAINTENANCE - GROUNDS": 34363.51,
+          "COMPUTERS & COMPONENTS <$5000": 32037.97000000001,
+          "SUBSCRIPTIONS & MEMBERSHIPS": 110086.21000000004,
+          "PURCHASING CARD CHARGES": 1534.5,
+          "FACILITIES MANAGEMENT CHARGES": 132980.41999999998,
+          "POSTAGE": 34833.729999999996,
+          "MAINT - AUTOS & EQUIP-FLEET": 411911.73000000004,
+          "GASOLINE, DIESEL, OIL & GREASE": 234970.16000000003,
+          "CONSULTANTS' FEES": 11394.79,
+          "MAINT - SWIMMING POOLS": 630,
+          "VEHICLE RENTAL CHARGES": 17903.870000000003,
+          "PHYSICAL MATERIALS-BOOKS": 4687.359999999998,
+          "MAINTENANCE - SOFTWARE": 114440.85,
+          "MAINTENANCE - CANALS": 130.08,
+          "MAINT - MACHINERY AND EQUIP": 31760.239999999994,
+          "MAINTENANCE - OFFICE EQUIP": 32598.149999999983,
+          "LABORATORY FEES": 414.4,
+          "DEVELOPMENT": 2214085,
+          "CONTRACT MANAGEMENT FEE": 27370.14,
+          "MISCELLANEOUS RENTAL CHARGES": 7032.100000000001,
+          "CONTRACTED LABOR/PROJECTS": 19910.35,
+          "DEVELOPMENT ADVERTISING": 24562.69,
+          "TRAVEL & TRANSPRTATN-CLIENTS": 18588.75,
+          "IN-HOME HEALTH SERVICES": 213528.15999999995,
+          "RENT - EQUIPMENT": 74289.44000000002,
+          "MEDICATIONS": 107143.13,
+          "BEHVIORAL HEALT-MEDICAID MATCH": 4531963.03,
+          "CLIENT SUPPORT SERVICES": 3249.94,
+          "MAINT - AUTOS TRUCKS-NONFLEET": 134.95000000000002,
+          "PETTY CASH REPLENISH": 2994.06,
+          "COMPUTER SOFTWARE <$5,000": 14930.43,
+          "MEN HEALTH-MEDICAID MATCH-DHCF": 91781.28,
+          "TAXI CAB FARES": 979.64,
+          "COMPUTER SUPPLIES": 12098.209999999995,
+          "OIL PRODUCTS & SERVICES": 17.99,
+          "LIBRARY BOOK SUPPLIES": 8086.199999999992,
+          "CONTRACTED PRINTINGS": 10480.749999999998,
+          "PRINTING SUPPLIES": 15202.289999999999,
+          "MAINTENANCE - OTHER": 735.5,
+          "MAINT - PLUMBING,HEAT,& AC": 681.69,
+          "BEDDING AND LINEN": 124.03,
+          "COMMISSARY PROVISIONS": 2642.5600000000004,
+          "ART AND PHOTOGRAPHIC SUPPLIES": 18577.17,
+          "NON-CAPITAL BUILDING IMPRVMNTS": 79.32,
+          "CAP LEAS PMNTS-LAND & BUILDING": 15491.94,
+          "LEASE PAYMENTS-NONCAPITAL": 7803.26,
+          "CLOTHING PROVISIONS": 4684.09,
+          "MAINTENANCE - ROADS & STREETS": 47582.66,
+          "MAINTENANCE - STREAMS": 62.68000000000001,
+          "MAINT CNTYWDE DRAINAGE SYSTEMS": 67.44,
+          "NON-CAP.STRM DRS,CNLS,CNTYWIDE": 11191.21,
+          "PARTS PURCHASES": 215.4,
+          "TRAINING PROVIDED BY PERSONNEL": 1000,
+          "DEPT CENTRAL STORES": 207.9,
+          "LAUNDRY SUPPLIES AND SERVICES": 403.0599999999999
+        }
+      },
+      "OTHER OPERATING EXPENSE 2": {
+        "total": 17937983.780000012,
+        "specifics": {
+          "HEALTH INCENTIVES": 31732.24,
+          "VOIP TEL EQUIP PURCH 2010-2012": 3389.2599999999998,
+          "CONTRIBUTIONS": 730225.6,
+          "REAL ESTATE OVERHEAD COST": -2.9103830456733704e-11,
+          "HUM SVCS PASS THRU GRANT CONTR": 17172566.679999996,
+          "NOTARY,SURETY &FIDELITY BONDS": 70
+        }
+      },
+      "OTHER OPERATING EXPENSE 1": {
+        "total": 270865.53999999963,
+        "specifics": {
+          "CONTRACT HAULING": 6191.96,
+          "DUMPING FEES": 765.61,
+          "LABORATORY SUPPLIES": 2274.24,
+          "HOUSEHOLD HAZARD WASTE&CLEANUP": -23,
+          "SHOP,CREW,&DEPUTY SMALL TOOLS": 3009.1099999999988,
+          "ROAD BASE AND CHIPS": 41854.5,
+          "TRAFFIC CONTROL SUPPLIES": 95178.53,
+          "ASPHALT MIX": 8076.25,
+          "CONCRETE": 6688,
+          "ROAD SALT": 104736.59,
+          "RECYCLING ACTIVITIES": 26.25,
+          "REFUSE CONTAINER": 2087.5
+        }
+      },
+      "CAPITAL EXPENDITURES": {
+        "total": 321711.69,
+        "specifics": {
+          "IMPROVEMENTS OF BUILDINGS": 922.41,
+          "IMPROVMNT OTHER THAN BUILDINGS": 46402.37,
+          "OFFICE FURN, EQUIP,SOFTWR>5000": 117562.15,
+          "MACHINERY AND EQUIPMENT": 1130.93,
+          "IMPROVEMENT OF ROAD AND STREET": 47101.18,
+          "STORM DRAIN-COUNTY WIDE": 39462.65,
+          "CONSTRUCTION IN PROGRESS": 69130
+        }
+      },
+      "INVESTMENT EARNINGS": {
+        "total": 7440.46,
+        "specifics": {
+          "INT-TAX POOL": 7440.46
+        }
+      },
+      "PROPERTY TAXES": {
+        "total": 238296.07999999996,
+        "specifics": {
+          "PRIOR YEAR REDEMPTIONS": 39785.61,
+          "PERSONAL PROPERTY TAX": 38133.41,
+          "GENERAL PROPERTY TAX": 158335.31,
+          "LATE FEES PRIOR YR REDEMPTIONS": 2041.75
+        }
+      },
+      "FEE IN LIEU OF TAXES": {
+        "total": 354473.57,
+        "specifics": {
+          "MOTOR VEH FEE IN LIEU OF TAXES": 354473.57
+        }
+      },
+      "CAPITAL GRANTS & CONTRIBUTIONS": {
+        "total": 100000,
+        "specifics": {
+          "CAPIT CONTRIBUTIONS-RESTRICTED": 100000
+        }
+      },
+      "STATE MANDATED EXPENSE": {
+        "total": 15165.65,
+        "specifics": {
+          "JUROR AND WITNESS - COUNTY": 1036,
+          "INDIGENT BURIALS": 10931.65,
+          "CIVIL SANITY HEARINGS": 3198
+        }
+      },
+      "LONG TERM DEBT": {
+        "total": 3526420.1300000004,
+        "specifics": {
+          "PLANETARIUM & MIDVALE-PRINC": 1514138.59,
+          "2012 SALES TAX REV REFUND-INT": 981748.72,
+          "SALT PALACE EXP III-INTEREST": 163478.01,
+          "QECB SOLAR PROJECT-INTEREST": 19443.28,
+          "QECB SOLAR PROJECT-PRINCIPAL": 98000,
+          "SALT PALACE EXP III-PRINCIPAL": 700000,
+          "STR 2010D VARIOUS PROJECTS-INT": 49611.53
+        }
+      },
+      "INTERGOVERNMENTAL CHARGE": {
+        "total": 335,
+        "specifics": {
+          "INTERFUND CHARGES": 335
+        }
+      },
+      "SPECIAL ASSESSMENTS": {
+        "total": 1.66,
+        "specifics": {
+          "SPECIAL IMP DIST ASSESSMENTS": 1.66
+        }
+      },
+      "OTHER NONOPERATING EXPENSE": {
+        "total": 4555.539999999999,
+        "specifics": {
+          "COSTS IN HANDLING COLLECTIONS": 4491.719999999999,
+          "INTEREST EXPENSE": 63.82
+        }
+      },
+      "COST OF GOODS SOLD": {
+        "total": 5280.84,
+        "specifics": {
+          "COST OF MATERIALS SOLD": 5244.81,
+          "COST OF SERVICES SOLD -SUBLET": 36.03
+        }
+      }
+    }
+  },
+  "EMPLOYEE SERVICE RESERVE": {
+    "total": 338.93,
+    "accts": {
+      "EMP 125 LIMITED HEALTH FSA DED": {
+        "total": 0,
+        "specifics": {
+          "EMP 125 LIMITED HEALTH FSA DED": 0
+        }
+      },
+      "EMP 125 DEPT CARE DEDUCTION": {
+        "total": 0,
+        "specifics": {
+          "EMP 125 DEPT CARE DEDUCTION": 0
+        }
+      },
+      "EMP 125 HEALTH FSA DEDUCTION": {
+        "total": 0,
+        "specifics": {
+          "EMP 125 HEALTH FSA DEDUCTION": 0
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 338.93,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 338.93
+        }
+      }
+    }
+  },
+  "INTERNAL SERVICE FUND": {
+    "total": 18894551.06999954,
+    "accts": {
+      "CHARGES FOR SERVICES": {
+        "total": 666598.7899999997,
+        "specifics": {
+          "MISCELLANEOUS REVENUE": 0,
+          "FACILITIES MANAGEMENT SERVICES": 4166.66,
+          "RENTAL INCOME": 9219.720000000001,
+          "SALE-MTRLS,SUPL,CNTRL ASSETS": 3126.479999999907,
+          "DEPARTMENTAL FEES": 3836.55,
+          "LOCAL GOVERNMENT GRANTS": 107064.43,
+          "PRINTING SERVICES": 35,
+          "FLEET EXTERNAL MAINTENANCE SVC": 308138.66,
+          "FLEET EXTERNAL FUEL SERVICES": 209412.16,
+          "FLEET MANAGEMENT SERVICES": 17326.91,
+          "CONCESSIONS": 4272.22
+        }
+      },
+      "INTER/INTRA FUND REVENUES": {
+        "total": 8257516.770000001,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 366449.6600000001,
+          "EMP INS - SELECTHEALTH CO": 1893788.52,
+          "EMP INS - SELECTHEALTH EMP": 745573.96,
+          "EMP INS - EMI DENTAL EMP": 152940.75000000003,
+          "EMP INS-BASIC LIFE CO MATCH": 2583.7099999999996,
+          "MEMBERSHIP FEES COLLECTED": 31794.200000000004,
+          "EMP INS - ALTIUS CO": 1507301.69,
+          "EMP INS - ALTIUS EMP": 551393.5,
+          "EMP INS - SELECTHLTH HDHP CO": 465782.5,
+          "EMP INS - ALTIUS HDHP CO": 282389.5,
+          "EMP INS - ALTIUS HSA CO": 103523.02,
+          "EMP INS - SELECTHLTH HSA CO": 54825,
+          "INTRAFUND REVENUE": 16846.739999999998,
+          "INTERFUND REVENUE": 1639448.03,
+          "EMP INS - ALTIUS HDHP EMP": 49792.5,
+          "EMP INS - SELECTHLTH HDHP EMP": 4378,
+          "BENE SELF PAY COLLECTION": 12973.39,
+          "RET INS - EMI DENTAL RETIREE": 33591.83,
+          "RET INS - SELECTHLTH HDHP RET": 4522.85,
+          "RET INS - ALTIUS HDHP RET": 4270.1,
+          "RET INS - ALTIUS RET": 75600.72,
+          "RET INS - SELECTHLTH RET": 67949.91,
+          "RET INS MEDICARE SUP RETIREE": 176358.6,
+          "EMP INS - EMI DENTAL COBRA": 1127.6499999999999,
+          "EMP INS - ALTIUS COBRA": 1079.85,
+          "EMP INS - ALTIUS HDHP COB": 864.96,
+          "EMP INS - SELECTHEALTH COBRA": 987.36,
+          "INTERFUND REVENUE-FLEET": 1320,
+          "INTERFUND REVENUE-MOTOR POOL": 8058.27
+        }
+      },
+      "MATERIALS AND SUPPLIES": {
+        "total": 570126.1900000001,
+        "specifics": {
+          "FACILITIES MANAGEMENT CHARGES": 174478.07,
+          "TELEPHONE": 96018.59,
+          "MOBILE TELEPHONE": 27479.09,
+          "JANITORIAL SUPPLIES & SERVICE": 35141.42999999999,
+          "HEAT AND FUEL": 43966.7,
+          "OTHER PROFESSIONAL FEES": 34319.33,
+          "MILEAGE ALLOWANCE": 1288.56,
+          "SMALL EQUIPMENT (NON-COMPUTER)": 3125.8900000000003,
+          "EDUCATION & TRAINING SERV/SUPP": 7532.18,
+          "PRINTING CHARGES": 13847,
+          "PURCHASING CARD CHARGES": 6497.44,
+          "MAINTENANCE - BUILDINGS": -941.8100000000004,
+          "MAINTENANCE - OFFICE EQUIP": 173.04000000000002,
+          "COMPUTERS & COMPONENTS <$5000": 383.83,
+          "MEDICAL SUPPLIES": 3712.4,
+          "OFFICE SUPPLIES": 8686.49,
+          "CLOTHING PROVISIONS": 2334.19,
+          "MAINT - MACHINERY AND EQUIP": 4511.960000000001,
+          "WATER AND SEWER": 7432.67,
+          "MAINT - AUTOS & EQUIP-FLEET": 6549.830000000001,
+          "GASOLINE, DIESEL, OIL & GREASE": 11568.68,
+          "VEHICLE RENTAL CHARGES": 871.25,
+          "MAINTENANCE - GROUNDS": 3509.62,
+          "MAINTENANCE - SOFTWARE": 7436,
+          "MAINT - AUTOS TRUCKS-NONFLEET": 15.5,
+          "POSTAGE": 1389,
+          "CONSUMABLE PARTS": 445.7,
+          "MAINT - PLUMBING,HEAT,& AC": 53.82000000000001,
+          "SUBSCRIPTIONS & MEMBERSHIPS": 1520.9299999999998,
+          "COMPUTER SOFTWARE <$5,000": 3.99,
+          "INTERNET/DATA COMMUNICATIONS": 57609.2,
+          "LIGHT AND POWER": 8672.31,
+          "LAUNDRY SUPPLIES AND SERVICES": 493.31
+        }
+      },
+      "OTHER OPERATING EXPENSE 2": {
+        "total": 6461151.000000002,
+        "specifics": {
+          "VOIP TEL EQUIP PURCH 2010-2012": 1261.12,
+          "HEALTH INCENTIVES": 8762.979999999998,
+          "RET INS - EMI DENTAL CLAIMS": 28283.69,
+          "RET INS - SELECT CLAIMS": 178732.75999999998,
+          "EMP INS - SELECTHEALTH CLAIMS": 1939715.23,
+          "EMP INS - SELECTHLTH HDHP CLMS": 484344.73000000004,
+          "RET INS - SELECT REINSURANCE": 3790.62,
+          "RET INS - ALTIUS HDHP REINSUR": 410.52,
+          "RET INS - SELECT HDHP REINSUR": 408.74,
+          "EMP INS - ALTIUS REINSUR": 101252.22,
+          "EMP INS - SELECTHEALTH REINSUR": 112643.42,
+          "EMP INS - SELECTHEALTH COBRA": 87053.33999999998,
+          "EMP INS - ALTIUS HDHP REINSUR": 21405.24,
+          "EMP INS - SELECTHLTH HDHP REIN": 30923.38,
+          "EMP INS - SELECTHLTH HDHP COBR": 329.94,
+          "RET INS - ALTIUS CLAIMS": 201029.87000000002,
+          "RET INS - ALTIUS HDHP CLAIMS": 18562.879999999997,
+          "EMP INS - ALTIUS CLAIMS": 1912224.1199999999,
+          "EMP INS - ALTIUS HSA": 30950,
+          "EMP INS - ALTIUS HDHP CLAIMS": 163914.62,
+          "EMP INS - SELECTHLTH HSA": 43775,
+          "RET INS - SELECT HDHP CLAIMS": 14.84,
+          "EMP INS - EMI DENTAL COBRA": 4028.16,
+          "EMP INS - EMI DENTAL CLAIMS": 321084.93999999994,
+          "RET INS - SELECT ADMIN": 7372.9,
+          "RET INS - SELECT HDHP ADMIN": 737.29,
+          "EMP INS - SELECTHEALTH ADMIN": 113193.73000000001,
+          "EMP INS - SELECTHLTH HDHP ADM": 31790.21,
+          "RET ENR - BENEFIT FOCUS ADMIN": 1485.6,
+          "EMP ENR - BENEFIT FOCUS ADMIN": 23274.4,
+          "RET INS - ALTIUS REINSURANCE": 4718.28,
+          "RET INS - EMI DENTAL ADMIN": 1792.5,
+          "RET INS - ALTIUS ADMIN": 5762,
+          "RET INS - ALTIUS HDHP ADMIN": 3323.2000000000003,
+          "EMP INS - EMI DENTAL ADMIN": 23911.34,
+          "EMP INS - ALTIUS ADMIN": 95327.6,
+          "EMP INS - ALTIUS HDHP ADMIN": 32859.009999999995,
+          "RET INS - PEHP MEDICARE SUPP": 412806.4,
+          "EMP INS - ALTIUS HDHP COBRA": 2922.3800000000006,
+          "EMP INS - ALTIUS COBRA": 20.4,
+          "EMP HSA - HEALTH EQU ADMIN": 1964.7,
+          "EMP INS-INSURANCE REFUNDS": 2986.7
+        }
+      },
+      "EMPLOYEE COMPENSATION": {
+        "total": 1858996.4299999948,
+        "specifics": {
+          "RETIREMENT OR PENSION CONTRIB": 176826.56000000006,
+          "SUPPLEMENTAL RETIREMENT (401K)": 32394.560000000045,
+          "HEALTH INSURANCE PREMIUMS": 190773.70000000027,
+          "LTD CONTRIBUTIONS": 6353.8099999999795,
+          "SOCIAL SECURITY TAXES": 84014.6300000001,
+          "PERMANENT AND PROVISIONAL": 1059491.5199999984,
+          "PERM AND PROV-PUBLIC SAFETY": 0,
+          "TOOL ALLOWANCE": 6790.92,
+          "OVERTIME": 10035.970000000003,
+          "EMPLOYEE AWARDS/SERVICE PINS": 450,
+          "TEMPORARY,SEASONAL,EMERGENCY": 59583.91999999999,
+          "WORKMEN'S COMPENSATION": 124860.23,
+          "INDUSTRIAL MEDICAL CLAIMS": 100655.61000000004,
+          "ELECTED AND EXEMPT SALARY": 6765
+        }
+      },
+      "COST OF GOODS SOLD": {
+        "total": 1074577.2999999998,
+        "specifics": {
+          "COST OF SERVICES SOLD -SUBLET": 133651.79,
+          "COST OF GASOLINE PRODUCTS SOLD": 530655.0300000001,
+          "PASS-THRU TELEPHONE": -6781.71,
+          "PASS-THRU MOBILE TELEPHONE": -59579.17,
+          "PASS-THRU MAINT PLUMB HTG & AC": 47044.399999999994,
+          "PASS-THRU MAINT - BUILDINGS": 154157.80999999997,
+          "PASS-THRU JANITORIAL SUPPLIES": 4161.5,
+          "PASS-THRU COMP SOFTWARE<$5000": 5783.4,
+          "PASS-THRU CONSUMABLE PARTS": 3500,
+          "PASS-THRU MAINT - GROUNDS": 80,
+          "COST OF MATERIALS SOLD": 225844.69000000003,
+          "COST OF OIL PRODUCTS SOLD": 1892.06,
+          "PASS-THRU POSTAGE": 34167.5
+        }
+      },
+      "INTERGOVERNMENTAL CHARGE": {
+        "total": 5450.62,
+        "specifics": {
+          "EMPLOYEE SERVICE AWARDS": 5450.62
+        }
+      },
+      "OTHER OPERATING EXPENSE 1": {
+        "total": 133.97,
+        "specifics": {
+          "SHOP,CREW,&DEPUTY SMALL TOOLS": 55.87,
+          "CONTRACT HAULING": 78.1
+        }
+      }
+    }
+  },
+  "DEBT SERVICE FUNDS": {
+    "total": 330509.37,
+    "accts": {
+      "PROPERTY TAXES": {
+        "total": 130926.01,
+        "specifics": {
+          "PRIOR YEAR REDEMPTIONS": 22306.75,
+          "GENERAL PROPERTY TAX": 87577.84,
+          "PERSONAL PROPERTY TAX": 21041.42
+        }
+      },
+      "MATERIALS AND SUPPLIES": {
+        "total": 3821.16,
+        "specifics": {
+          "OTHER PROFESSIONAL FEES": 3821.16
+        }
+      },
+      "FEE IN LIEU OF TAXES": {
+        "total": 191725.63,
+        "specifics": {
+          "MOTOR VEH FEE IN LIEU OF TAXES": 191725.63
+        }
+      },
+      "INVESTMENT EARNINGS": {
+        "total": 4036.57,
+        "specifics": {
+          "INT-TAX POOL": 4036.57
+        }
+      }
+    }
+  },
+  "CAPITAL PROJECT FUND": {
+    "total": 50276058.32999999,
+    "accts": {
+      "INVESTMENT EARNINGS": {
+        "total": 5377.78,
+        "specifics": {
+          "INTEREST-MISCELLANEOUS": 4859.51,
+          "INT-TAX POOL": 518.27
+        }
+      },
+      "PROPERTY TAXES": {
+        "total": 14875.75,
+        "specifics": {
+          "PRIOR YEAR REDEMPTIONS": 872.68,
+          "GENERAL PROPERTY TAX": 11295.87,
+          "PERSONAL PROPERTY TAX": 2707.2
+        }
+      },
+      "OTHER FINANCING SOURCES": {
+        "total": 42769411.25,
+        "specifics": {
+          "SALES TAX BONDS ISSUED (FACE)": 38600000,
+          "PREMIUM ON SALES TAX BONDS ISS": 4169411.25
+        }
+      },
+      "MATERIALS AND SUPPLIES": {
+        "total": 171102.21,
+        "specifics": {
+          "OTHER PROFESSIONAL FEES": 171102.21
+        }
+      },
+      "CAPITAL EXPENDITURES": {
+        "total": 6847881.469999999,
+        "specifics": {
+          "PURCHASE OF LAND": 5701608.05,
+          "CONSTRUCTION IN PROGRESS": 521005.35,
+          "IMPROVMNT OTHER THAN BUILDINGS": 100704.78,
+          "IMPROVEMENTS OF BUILDINGS": 390901.08999999997,
+          "MACHINERY AND EQUIPMENT": 133662.2
+        }
+      },
+      "OPERATING GRANTS & CONTRIBUTIO": {
+        "total": 43627.08,
+        "specifics": {
+          "FEDERAL GOVERNMENT GRANTS": 43627.08
+        }
+      },
+      "FEE IN LIEU OF TAXES": {
+        "total": 24728.94,
+        "specifics": {
+          "MOTOR VEH FEE IN LIEU OF TAXES": 24728.94
+        }
+      },
+      "CAPITAL GRANTS & CONTRIBUTIONS": {
+        "total": 25000,
+        "specifics": {
+          "CAPIT CONTRIBUTIONS-RESTRICTED": 25000
+        }
+      },
+      "OTHER OPERATING EXPENSE 2": {
+        "total": 373616.79,
+        "specifics": {
+          "CONTRIBUTIONS": 365000,
+          "ASSET HELD FOR NMTC PROJECTS": 8616.79
+        }
+      },
+      "EMPLOYEE COMPENSATION": {
+        "total": 437.06,
+        "specifics": {
+          "TEMPORARY,SEASONAL,EMERGENCY": 406,
+          "SOCIAL SECURITY TAXES": 31.06
+        }
+      }
+    }
+  },
+  "ENTERPRISE FUND": {
+    "total": 2788576.350000045,
+    "accts": {
+      "CHARGES FOR SERVICES": {
+        "total": 1422176.8499999999,
+        "specifics": {
+          "LANDFILL CHARGE": 1299508.95,
+          "PARKS FEES-MISC": -1452.48,
+          "REC FEES - GOLF": 9386.059999999998,
+          "SOIL REGENERATION ROYALTIES": 109169.61,
+          "COMPOST SALES": 120,
+          "INCOMING GREEN WASTE": 5444.71
+        }
+      },
+      "INTER/INTRA FUND REVENUES": {
+        "total": -1.2915890579279221e-11,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": -1.2789769243681803e-12,
+          "EMP INS - ALTIUS EMP": 0,
+          "EMP INS - EMI DENTAL EMP": -3.7925218521195347e-13,
+          "EMP INS - ALTIUS CO": 0,
+          "EMP INS-BASIC LIFE CO MATCH": 2.1094237467877974e-15,
+          "EMP INS - SELECTHEALTH CO": 0,
+          "EMP INS - SELECTHEALTH EMP": 0,
+          "EMP INS - SELECTHLTH HSA CO": 0,
+          "EMP INS - SELECTHLTH HDHP CO": 0,
+          "MEMBERSHIP FEES COLLECTED": -7.105427357601002e-15,
+          "EMP INS - ALTIUS HDHP CO": 0,
+          "EMP INS - ALTIUS HSA CO": 0
+        }
+      },
+      "INVESTMENT EARNINGS": {
+        "total": 13751.89,
+        "specifics": {
+          "INTEREST-MISCELLANEOUS": 13751.89
+        }
+      },
+      "MATERIALS AND SUPPLIES": {
+        "total": 398652.62,
+        "specifics": {
+          "FACILITIES MANAGEMENT CHARGES": 12421.57,
+          "MOBILE TELEPHONE": 1227.17,
+          "TELEPHONE": 13726.650000000005,
+          "EDUCATION & TRAINING SERV/SUPP": 480,
+          "CONTRACTED LABOR/PROJECTS": 7543.5,
+          "MAINT - MACHINERY AND EQUIP": 10583.619999999999,
+          "TRAVEL & TRANSPRTATN-EMPLOYEES": 4304.91,
+          "RECREATIONAL SUPPLIES & SERV": 380.97999999999996,
+          "RENT - LAND": 21500,
+          "MILEAGE ALLOWANCE": 704.48,
+          "PHYSICAL MATERIAL-AUDIO/VISUAL": 189.36999999999998,
+          "WATER AND SEWER": 7760.95,
+          "LIGHT AND POWER": 13314.869999999999,
+          "MAINT - AUTOS & EQUIP-FLEET": 185836.16,
+          "GASOLINE, DIESEL, OIL & GREASE": 111090.87,
+          "SMALL EQUIPMENT (NON-COMPUTER)": 4784.91,
+          "MAINTENANCE - OFFICE EQUIP": 209,
+          "SUBSCRIPTIONS & MEMBERSHIPS": 200,
+          "MAINTENANCE - GROUNDS": 375.75,
+          "MAINTENANCE - BUILDINGS": 319.11,
+          "DEVELOPMENT ADVERTISING": 164,
+          "MEDICAL SUPPLIES": 211.56,
+          "OFFICE SUPPLIES": 170.1,
+          "MAINTENANCE - SOFTWARE": 1300,
+          "MEN HEALTH-MEDICAID MATCH-DHCF": 22.77,
+          "LABORATORY FEES": 267.85,
+          "LAUNDRY SUPPLIES AND SERVICES": 259.72,
+          "CLOTHING PROVISIONS": 139.95,
+          "COMPUTERS & COMPONENTS <$5000": -837.2
+        }
+      },
+      "OTHER OPERATING EXPENSE 2": {
+        "total": 2003.8799999999997,
+        "specifics": {
+          "VOIP TEL EQUIP PURCH 2010-2012": 1553.8799999999999,
+          "HEALTH INCENTIVES": 450
+        }
+      },
+      "EMPLOYEE COMPENSATION": {
+        "total": 910526.2999999964,
+        "specifics": {
+          "SOCIAL SECURITY TAXES": 45397.60000000005,
+          "TEMPORARY,SEASONAL,EMERGENCY": 16328.799999999996,
+          "PERMANENT AND PROVISIONAL": 592954.060000001,
+          "RETIREMENT OR PENSION CONTRIB": 100489.82999999994,
+          "SUPPLEMENTAL RETIREMENT (401K)": 17108.590000000007,
+          "HEALTH INSURANCE PREMIUMS": 125808.93000000037,
+          "LTD CONTRIBUTIONS": 3518.9600000000037,
+          "OVERTIME": 1227.7199999999998,
+          "EMPLOYEE AWARDS/SERVICE PINS": 500,
+          "LUMP SUM VACATION PAY": 7062.13,
+          "PERM AND PROV-PUBLIC SAFETY": 129.68
+        }
+      },
+      "OTHER OPERATING EXPENSE 1": {
+        "total": 41142.67,
+        "specifics": {
+          "SHOP,CREW,&DEPUTY SMALL TOOLS": 179.08,
+          "RECYCLING ACTIVITIES": 423.8,
+          "HOUSEHOLD HAZARD WASTE&CLEANUP": 40539.79
+        }
+      },
+      "OTHER NONOPERATING EXPENSE": {
+        "total": 322.14,
+        "specifics": {
+          "COSTS IN HANDLING COLLECTIONS": 322.14
+        }
+      }
+    }
+  },
+  "PERMANENT FUNDS": {
+    "total": 62509.61,
+    "accts": {
+      "OPERATING GRANTS & CONTRIBUTIO": {
+        "total": 62509.61,
+        "specifics": {
+          "OPRTG CONTRIBUTIONS-RESTRICTED": 62509.61
+        }
+      }
+    }
+  },
+  "GENERAL FUND": {
+    "total": 892100435.6400003,
+    "accts": {
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 46209534.15,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 46209534.15
+        }
+      },
+      "AFB-REGIONAL DEV PROJECTS": {
+        "total": 1417000,
+        "specifics": {
+          "AFB-REGIONAL DEV PROJECTS": 1417000
+        }
+      },
+      "CFB-PUBLIC SAFETY COMUNICATION": {
+        "total": 75855.13,
+        "specifics": {
+          "CFB-PUBLIC SAFETY COMUNICATION": 75855.13
+        }
+      },
+      "CFB - FOR COMPENSATED ABSENCES": {
+        "total": 2050138.56,
+        "specifics": {
+          "CFB - FOR COMPENSATED ABSENCES": 2050138.56
+        }
+      },
+      "CFB - FOR OPEB": {
+        "total": 749440,
+        "specifics": {
+          "CFB - FOR OPEB": 749440
+        }
+      },
+      "RFB - OHV DISTRIBUTION": {
+        "total": 241616.86,
+        "specifics": {
+          "RFB - OHV DISTRIBUTION": 241616.86
+        }
+      },
+      "RFB-WEST VALLEY CITY PARKS&REC": {
+        "total": 365000,
+        "specifics": {
+          "RFB-WEST VALLEY CITY PARKS&REC": 365000
+        }
+      },
+      "RFB-LAND & WATER CONSERVATION": {
+        "total": 38600,
+        "specifics": {
+          "RFB-LAND & WATER CONSERVATION": 38600
+        }
+      },
+      "RFB-SHERIFF INMATE SERVICES": {
+        "total": 1655206.25,
+        "specifics": {
+          "RFB-SHERIFF INMATE SERVICES": 1655206.25
+        }
+      },
+      "RFB-PUBLIC SURVEY MONUMENT": {
+        "total": 316517.93,
+        "specifics": {
+          "RFB-PUBLIC SURVEY MONUMENT": 316517.93
+        }
+      },
+      "RFB-PUBLIC LAND CORNER PRESERV": {
+        "total": 291796.77,
+        "specifics": {
+          "RFB-PUBLIC LAND CORNER PRESERV": 291796.77
+        }
+      },
+      "RFB-BOND RETIREMENT": {
+        "total": 572032.45,
+        "specifics": {
+          "RFB-BOND RETIREMENT": 572032.45
+        }
+      },
+      "RFB-RESTRICTED CONTRIBUTIONS": {
+        "total": 4450,
+        "specifics": {
+          "RFB-RESTRICTED CONTRIBUTIONS": 4450
+        }
+      },
+      "RFB-ASSET FORFEITURE": {
+        "total": 921678.24,
+        "specifics": {
+          "RFB-ASSET FORFEITURE": 921678.24
+        }
+      },
+      "RFB-RESTRICTED FUND BALANCE": {
+        "total": 4000,
+        "specifics": {
+          "RFB-RESTRICTED FUND BALANCE": 4000
+        }
+      },
+      "NET POSITION IR - OPEB": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - OPEB": 0
+        }
+      },
+      "NET POSITION IR - COMP ABSENCE": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - COMP ABSENCE": 0
+        }
+      },
+      "NET POSITION-ASSETS": {
+        "total": 4070694.28,
+        "specifics": {
+          "NET POSITION-ASSETS": 4070694.28
+        }
+      },
+      "NET POSITION - DEBT": {
+        "total": -2329392.45,
+        "specifics": {
+          "NET POSITION - DEBT": -2329392.45
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 337073865.15,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 337073865.15
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "PRIOR YEARS ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "PRIOR YEARS ENCUMBRANCES": 0
+        }
+      },
+      "UNAVAILABLE PROPERTY TAX REVEN": {
+        "total": 4489689.04,
+        "specifics": {
+          "UNAVAILABLE PROPERTY TAX REVEN": 4489689.04
+        }
+      },
+      "DEFERRED REVENUES": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED REVENUES": 0
+        }
+      },
+      "ELECTION SENTIO LEASE": {
+        "total": 42400,
+        "specifics": {
+          "ELECTION SENTIO LEASE": 42400
+        }
+      },
+      "ST DA 2010D": {
+        "total": 22190829.38,
+        "specifics": {
+          "ST DA 2010D": 22190829.38
+        }
+      },
+      "OBLIG-SALES TAX REVENUE BONDS": {
+        "total": 0,
+        "specifics": {
+          "OBLIG-SALES TAX REVENUE BONDS": 0
+        }
+      },
+      "UNEARNED REVENUE": {
+        "total": 1773842.18,
+        "specifics": {
+          "UNEARNED REVENUE": 1773842.18
+        }
+      },
+      "DEPOSIT CLEARING ACCNT": {
+        "total": -14935.24,
+        "specifics": {
+          "DEPOSIT CLEARING ACCNT": -14935.24
+        }
+      },
+      "GRANT REVENUE COLLECTED IN ADV": {
+        "total": 881970.21,
+        "specifics": {
+          "GRANT REVENUE COLLECTED IN ADV": 881970.21
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "OBLIG-COMPSATED ABSNC VACATION": {
+        "total": 7543456.29,
+        "specifics": {
+          "OBLIG-COMPSATED ABSNC VACATION": 7543456.29
+        }
+      },
+      "OBLIG-COMPSATD ABSNC SICKLEAVE": {
+        "total": 4762106.78,
+        "specifics": {
+          "OBLIG-COMPSATD ABSNC SICKLEAVE": 4762106.78
+        }
+      },
+      "RENTAL SECURITY DEPOSITS": {
+        "total": 400,
+        "specifics": {
+          "RENTAL SECURITY DEPOSITS": 400
+        }
+      },
+      "EDCR-HELD IN ESCROW": {
+        "total": -113,
+        "specifics": {
+          "EDCR-HELD IN ESCROW": -113
+        }
+      },
+      "MISC CASH RECEIPT HOLDING": {
+        "total": 0,
+        "specifics": {
+          "MISC CASH RECEIPT HOLDING": 0
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 430406.98,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 430406.98
+        }
+      },
+      "ACCRUED EXPENSE PAYABLE": {
+        "total": 8262.14,
+        "specifics": {
+          "ACCRUED EXPENSE PAYABLE": 8262.14
+        }
+      },
+      "HSA - WELLNESS INCENTIVE": {
+        "total": 0,
+        "specifics": {
+          "HSA - WELLNESS INCENTIVE": 0
+        }
+      },
+      "EMP INS-REGENCE CO": {
+        "total": 11656,
+        "specifics": {
+          "EMP INS-REGENCE CO": 11656
+        }
+      },
+      "EMP INS-REGENCE EMP": {
+        "total": 756,
+        "specifics": {
+          "EMP INS-REGENCE EMP": 756
+        }
+      },
+      "EMP INS-REGENCE HSA CO": {
+        "total": 1342.5,
+        "specifics": {
+          "EMP INS-REGENCE HSA CO": 1342.5
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": -16.4,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": -16.4
+        }
+      },
+      "EMP INS - EMI DENTAL EMP": {
+        "total": -4.1,
+        "specifics": {
+          "EMP INS - EMI DENTAL EMP": -4.1
+        }
+      },
+      "EMP INS - ALTIUS CO": {
+        "total": -174.5,
+        "specifics": {
+          "EMP INS - ALTIUS CO": -174.5
+        }
+      },
+      "EMP INS - ALTIUS EMP": {
+        "total": -39.5,
+        "specifics": {
+          "EMP INS - ALTIUS EMP": -39.5
+        }
+      },
+      "EMP INS - SELECTHEALTH CO": {
+        "total": 449.5,
+        "specifics": {
+          "EMP INS - SELECTHEALTH CO": 449.5
+        }
+      },
+      "EMP INS - SELECTHEALTH EMP": {
+        "total": 0.19,
+        "specifics": {
+          "EMP INS - SELECTHEALTH EMP": 0.19
+        }
+      },
+      "EMP INS - SELECTHLTH HSA CO": {
+        "total": -4290,
+        "specifics": {
+          "EMP INS - SELECTHLTH HSA CO": -4290
+        }
+      },
+      "MEMBERSHIP FEES COLLECTED": {
+        "total": 0,
+        "specifics": {
+          "MEMBERSHIP FEES COLLECTED": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": -252358.94,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": -252358.94
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 18178.85,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 18178.85
+        }
+      },
+      "COUNTY URS 401(K) CONTRIB": {
+        "total": 110888.49,
+        "specifics": {
+          "COUNTY URS 401(K) CONTRIB": 110888.49
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 793460.6,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 793460.6
+        }
+      },
+      "EMPLOYEEROTH IRA": {
+        "total": 7940.04,
+        "specifics": {
+          "EMPLOYEEROTH IRA": 7940.04
+        }
+      },
+      "EMPLOYEE TRADITIONAL IRA": {
+        "total": 214,
+        "specifics": {
+          "EMPLOYEE TRADITIONAL IRA": 214
+        }
+      },
+      "EMP HSA EMPLOYEE HSA CONTRIB": {
+        "total": 58730.54,
+        "specifics": {
+          "EMP HSA EMPLOYEE HSA CONTRIB": 58730.54
+        }
+      },
+      "WAGE ASSIGNMENTS-FEES": {
+        "total": 0,
+        "specifics": {
+          "WAGE ASSIGNMENTS-FEES": 0
+        }
+      },
+      "WAGE ASSIGNMENTS-MISCELLANEOUS": {
+        "total": 0,
+        "specifics": {
+          "WAGE ASSIGNMENTS-MISCELLANEOUS": 0
+        }
+      },
+      "WAGE ASMTS-401(K) LOAN REPAYME": {
+        "total": 47976.1,
+        "specifics": {
+          "WAGE ASMTS-401(K) LOAN REPAYME": 47976.1
+        }
+      },
+      "DEFERRED COMP-PEBSCO 457": {
+        "total": 1345.32,
+        "specifics": {
+          "DEFERRED COMP-PEBSCO 457": 1345.32
+        }
+      },
+      "EMP DE-EMPLOYEE 401K CONTRIB": {
+        "total": 104165.15,
+        "specifics": {
+          "EMP DE-EMPLOYEE 401K CONTRIB": 104165.15
+        }
+      },
+      "EMP DC EMPLOYEE 457 CONTRIB": {
+        "total": 59957.99,
+        "specifics": {
+          "EMP DC EMPLOYEE 457 CONTRIB": 59957.99
+        }
+      },
+      "EMPLOYEE GARNISHMENTS": {
+        "total": 15774.24,
+        "specifics": {
+          "EMPLOYEE GARNISHMENTS": 15774.24
+        }
+      },
+      "SHERIFFS MUTUAL AID": {
+        "total": 247.5,
+        "specifics": {
+          "SHERIFFS MUTUAL AID": 247.5
+        }
+      },
+      "EMPLOYEE ASSOCIATIONS": {
+        "total": 1780.85,
+        "specifics": {
+          "EMPLOYEE ASSOCIATIONS": 1780.85
+        }
+      },
+      "UNION DUES": {
+        "total": 1160.48,
+        "specifics": {
+          "UNION DUES": 1160.48
+        }
+      },
+      "HEALTH CENTER MEMBERSHIP W/H": {
+        "total": 0,
+        "specifics": {
+          "HEALTH CENTER MEMBERSHIP W/H": 0
+        }
+      },
+      "CHARITABLE CONTRIBUTIONS": {
+        "total": 1165.45,
+        "specifics": {
+          "CHARITABLE CONTRIBUTIONS": 1165.45
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": 17655.7,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": 17655.7
+        }
+      },
+      "STATE WITHHOLDING": {
+        "total": 580081.32,
+        "specifics": {
+          "STATE WITHHOLDING": 580081.32
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 277419.1,
+        "specifics": {
+          "FICA - EMPLOYEE": 277419.1
+        }
+      },
+      "FEDERAL WITHHOLDINGS": {
+        "total": 297614.56,
+        "specifics": {
+          "FEDERAL WITHHOLDINGS": 297614.56
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 31176.87,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 31176.87
+        }
+      },
+      "INSURANCE - HYATT LEGAL": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE - HYATT LEGAL": 0
+        }
+      },
+      "INSURANCE LIBERTY - AUTO HOME": {
+        "total": 8099.71,
+        "specifics": {
+          "INSURANCE LIBERTY - AUTO HOME": 8099.71
+        }
+      },
+      "INSURANCE MET - AUTO HOME": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE MET - AUTO HOME": 0
+        }
+      },
+      "INSURANCE - THE STANDARD STD": {
+        "total": 1910.45,
+        "specifics": {
+          "INSURANCE - THE STANDARD STD": 1910.45
+        }
+      },
+      "LEGISLATIVE TRUST COLLECTIONS": {
+        "total": 0,
+        "specifics": {
+          "LEGISLATIVE TRUST COLLECTIONS": 0
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 2927724.27,
+        "specifics": {
+          "ACCRUED PAYROLL": 2927724.27
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 5093363.99,
+        "specifics": {
+          "VOUCHERS PAYABLE": 5093363.99
+        }
+      },
+      "VOUCHERS PAYABLE ADJUSTMENT": {
+        "total": -1482.58,
+        "specifics": {
+          "VOUCHERS PAYABLE ADJUSTMENT": -1482.58
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -19573636.42,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -19573636.42
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 30362326.38,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 30362326.38
+        }
+      },
+      "ACCUM DEPR LAND IMPROVEMENTS": {
+        "total": -23228421.72,
+        "specifics": {
+          "ACCUM DEPR LAND IMPROVEMENTS": -23228421.72
+        }
+      },
+      "ACCUM DEPR LEASEHOLD IMPROVMNT": {
+        "total": -6242053.98,
+        "specifics": {
+          "ACCUM DEPR LEASEHOLD IMPROVMNT": -6242053.98
+        }
+      },
+      "LEASEHOLD IMPROVEMENTS": {
+        "total": 15273226.1,
+        "specifics": {
+          "LEASEHOLD IMPROVEMENTS": 15273226.1
+        }
+      },
+      "LAND IMPROVEMENTS": {
+        "total": 69339448.01,
+        "specifics": {
+          "LAND IMPROVEMENTS": 69339448.01
+        }
+      },
+      "ACCUM DEPR BUILDINGS": {
+        "total": -141459063.1,
+        "specifics": {
+          "ACCUM DEPR BUILDINGS": -141459063.1
+        }
+      },
+      "BUILDINGS/BLDG IMPROVEMENTS": {
+        "total": 418862187.55,
+        "specifics": {
+          "BUILDINGS/BLDG IMPROVEMENTS": 418862187.55
+        }
+      },
+      "CONSTRUCTION IN PROCESS": {
+        "total": 104342.23,
+        "specifics": {
+          "CONSTRUCTION IN PROCESS": 104342.23
+        }
+      },
+      "INFRASTRUCTURE-NON DEPRECIABLE": {
+        "total": 385992.48,
+        "specifics": {
+          "INFRASTRUCTURE-NON DEPRECIABLE": 385992.48
+        }
+      },
+      "LAND": {
+        "total": 29529611.9,
+        "specifics": {
+          "LAND": 29529611.9
+        }
+      },
+      "TEMPORARY SUSPENSE": {
+        "total": 0,
+        "specifics": {
+          "TEMPORARY SUSPENSE": 0
+        }
+      },
+      "PREPAID CLEARING": {
+        "total": -1135,
+        "specifics": {
+          "PREPAID CLEARING": -1135
+        }
+      },
+      "DUE FROM FUNDS-NEGATIVE CASH": {
+        "total": 15920874.09,
+        "specifics": {
+          "DUE FROM FUNDS-NEGATIVE CASH": 15920874.09
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 200883.44,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 200883.44
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 1329152.65,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 1329152.65
+        }
+      },
+      "A/R - BILLINGS": {
+        "total": 0,
+        "specifics": {
+          "A/R - BILLINGS": 0
+        }
+      },
+      "A/R - BILLING DEFAULT": {
+        "total": 1209095.05,
+        "specifics": {
+          "A/R - BILLING DEFAULT": 1209095.05
+        }
+      },
+      "ACCRUED GRANTS RECEIVABLE": {
+        "total": 3177373.07,
+        "specifics": {
+          "ACCRUED GRANTS RECEIVABLE": 3177373.07
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 15617684.2,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 15617684.2
+        }
+      },
+      "CASH-PETTY (IMPREST)": {
+        "total": 121160,
+        "specifics": {
+          "CASH-PETTY (IMPREST)": 121160
+        }
+      },
+      "CASH-DEPARTMENTAL CHECKING": {
+        "total": 0,
+        "specifics": {
+          "CASH-DEPARTMENTAL CHECKING": 0
+        }
+      },
+      "CASH-HELD BY TRUSTEE-BOND": {
+        "total": 525.09,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-BOND": 525.09
+        }
+      },
+      "CASH-HELD BY TRUSTEE-CAP INTER": {
+        "total": 571507.36,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-CAP INTER": 571507.36
+        }
+      },
+      "CASH-RESTRICTED": {
+        "total": 608314.7,
+        "specifics": {
+          "CASH-RESTRICTED": 608314.7
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 33940823.74,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 33940823.74
+        }
+      },
+      "CASH-DEPARTMENTAL RECEIPTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-DEPARTMENTAL RECEIPTS": 0
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      },
+      "CASH-PAYROLL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-PAYROLL WARRANTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "SOUTH TOWNE EXPOSITION CENTER": {
+    "total": 0,
+    "accts": {
+      "CASH-DEPARTMENTAL RECEIPTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-DEPARTMENTAL RECEIPTS": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "TRCC:TOURISM,REC,CULTRL,CONVEN": {
+    "total": 30142970.799999997,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 8497770.17,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 8497770.17
+        }
+      },
+      "RFB-SUBSEQUENT YR COMMITMENT": {
+        "total": 1306500,
+        "specifics": {
+          "RFB-SUBSEQUENT YR COMMITMENT": 1306500
+        }
+      },
+      "NET POSITION-ASSETS": {
+        "total": 317481.86,
+        "specifics": {
+          "NET POSITION-ASSETS": 317481.86
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 4367696.75,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 4367696.75
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "PRIOR YEARS ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "PRIOR YEARS ENCUMBRANCES": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 0,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 0
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 582036.62,
+        "specifics": {
+          "VOUCHERS PAYABLE": 582036.62
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -87803.84,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -87803.84
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 760080.3,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 760080.3
+        }
+      },
+      "LAND IMPROVEMENTS": {
+        "total": 258000,
+        "specifics": {
+          "LAND IMPROVEMENTS": 258000
+        }
+      },
+      "BUILDINGS/BLDG IMPROVEMENTS": {
+        "total": 288585,
+        "specifics": {
+          "BUILDINGS/BLDG IMPROVEMENTS": 288585
+        }
+      },
+      "CONSTRUCTION IN PROCESS": {
+        "total": 744612.43,
+        "specifics": {
+          "CONSTRUCTION IN PROCESS": 744612.43
+        }
+      },
+      "LAND": {
+        "total": 2721704.72,
+        "specifics": {
+          "LAND": 2721704.72
+        }
+      },
+      "TEMPORARY SUSPENSE": {
+        "total": 0,
+        "specifics": {
+          "TEMPORARY SUSPENSE": 0
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 5346964.73,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 5346964.73
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 5039342.06,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 5039342.06
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "RAMPTON SALT PALACE CONV CTR": {
+    "total": 260761183.16,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 5679557.7,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 5679557.7
+        }
+      },
+      "RFB - SALT PAL/SO TOWN CAP PRJ": {
+        "total": 8326567,
+        "specifics": {
+          "RFB - SALT PAL/SO TOWN CAP PRJ": 8326567
+        }
+      },
+      "RFB-TRUSTEE CASH": {
+        "total": 18844.65,
+        "specifics": {
+          "RFB-TRUSTEE CASH": 18844.65
+        }
+      },
+      "RFB-BOND RETIREMENT": {
+        "total": 1615.73,
+        "specifics": {
+          "RFB-BOND RETIREMENT": 1615.73
+        }
+      },
+      "NFB-INVENTORIES & PREPAID EXP": {
+        "total": 4338,
+        "specifics": {
+          "NFB-INVENTORIES & PREPAID EXP": 4338
+        }
+      },
+      "NFB-LONG TERM RECEIVABLE": {
+        "total": 5039400,
+        "specifics": {
+          "NFB-LONG TERM RECEIVABLE": 5039400
+        }
+      },
+      "NET POSITION-ASSETS": {
+        "total": 747226.12,
+        "specifics": {
+          "NET POSITION-ASSETS": 747226.12
+        }
+      },
+      "NET POSITION - DEBT": {
+        "total": 20525101.42,
+        "specifics": {
+          "NET POSITION - DEBT": 20525101.42
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 68563815.52,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 68563815.52
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "PRIOR YEARS ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "PRIOR YEARS ENCUMBRANCES": 0
+        }
+      },
+      "SIEMENS-SALT PALACE LIGHTING": {
+        "total": 200815.67,
+        "specifics": {
+          "SIEMENS-SALT PALACE LIGHTING": 200815.67
+        }
+      },
+      "SIEMENS-SALT PALACE VFD": {
+        "total": 398682.79,
+        "specifics": {
+          "SIEMENS-SALT PALACE VFD": 398682.79
+        }
+      },
+      "ST 2012A REFUNDING": {
+        "total": 14123175,
+        "specifics": {
+          "ST 2012A REFUNDING": 14123175
+        }
+      },
+      "ST 2011 ENERGY CONSERVATION": {
+        "total": 1631000,
+        "specifics": {
+          "ST 2011 ENERGY CONSERVATION": 1631000
+        }
+      },
+      "ST SALT PALACE 2005": {
+        "total": 1878675,
+        "specifics": {
+          "ST SALT PALACE 2005": 1878675
+        }
+      },
+      "ST SALT PALACE 2004": {
+        "total": 730000,
+        "specifics": {
+          "ST SALT PALACE 2004": 730000
+        }
+      },
+      "OBLIGATION-CAPITAL LEASES": {
+        "total": 0,
+        "specifics": {
+          "OBLIGATION-CAPITAL LEASES": 0
+        }
+      },
+      "OBLIG-SALES TAX REVENUE BONDS": {
+        "total": 0,
+        "specifics": {
+          "OBLIG-SALES TAX REVENUE BONDS": 0
+        }
+      },
+      "UNEARNED REVENUE": {
+        "total": 1232408.32,
+        "specifics": {
+          "UNEARNED REVENUE": 1232408.32
+        }
+      },
+      "DEPOSIT CLEARING ACCNT": {
+        "total": 0,
+        "specifics": {
+          "DEPOSIT CLEARING ACCNT": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "ARBITRAGE REBATE LIABILITY": {
+        "total": 7045.15,
+        "specifics": {
+          "ARBITRAGE REBATE LIABILITY": 7045.15
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 1042.23,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 1042.23
+        }
+      },
+      "ACCRUED EXPENSE PAYABLE": {
+        "total": 555308.74,
+        "specifics": {
+          "ACCRUED EXPENSE PAYABLE": 555308.74
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 242040.87,
+        "specifics": {
+          "ACCRUED PAYROLL": 242040.87
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 473931.67,
+        "specifics": {
+          "VOUCHERS PAYABLE": 473931.67
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -2221542.03,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -2221542.03
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 3495522.51,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 3495522.51
+        }
+      },
+      "ACCUM DEPR LAND IMPROVEMENTS": {
+        "total": -436734.39,
+        "specifics": {
+          "ACCUM DEPR LAND IMPROVEMENTS": -436734.39
+        }
+      },
+      "LAND IMPROVEMENTS": {
+        "total": 511352.02,
+        "specifics": {
+          "LAND IMPROVEMENTS": 511352.02
+        }
+      },
+      "ACCUM DEPR BUILDINGS": {
+        "total": -123779124.26,
+        "specifics": {
+          "ACCUM DEPR BUILDINGS": -123779124.26
+        }
+      },
+      "BUILDINGS/BLDG IMPROVEMENTS": {
+        "total": 222604996.35,
+        "specifics": {
+          "BUILDINGS/BLDG IMPROVEMENTS": 222604996.35
+        }
+      },
+      "LAND": {
+        "total": 8624021.32,
+        "specifics": {
+          "LAND": 8624021.32
+        }
+      },
+      "OTHER PREPAID EXPENSES": {
+        "total": 4338,
+        "specifics": {
+          "OTHER PREPAID EXPENSES": 4338
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "NMTC LOAN RECEIVABLE SOLAR": {
+        "total": 5039400,
+        "specifics": {
+          "NMTC LOAN RECEIVABLE SOLAR": 5039400
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 8.72,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 8.72
+        }
+      },
+      "A/R - RENTS": {
+        "total": 0,
+        "specifics": {
+          "A/R - RENTS": 0
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 711462.8,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 711462.8
+        }
+      },
+      "A/R - BILLING DEFAULT": {
+        "total": 70002,
+        "specifics": {
+          "A/R - BILLING DEFAULT": 70002
+        }
+      },
+      "CASH-PETTY (IMPREST)": {
+        "total": 4000,
+        "specifics": {
+          "CASH-PETTY (IMPREST)": 4000
+        }
+      },
+      "CASH-DEPARTMENTAL CHECKING": {
+        "total": 601815.97,
+        "specifics": {
+          "CASH-DEPARTMENTAL CHECKING": 601815.97
+        }
+      },
+      "CASH-HELD BY TRUSTEE-ACC INTER": {
+        "total": 8.98,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-ACC INTER": 8.98
+        }
+      },
+      "CASH-HELD BY TRUSTEE-CO TREASU": {
+        "total": 0,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-CO TREASU": 0
+        }
+      },
+      "CASH-HELD BY TRUSTEE-BOND": {
+        "total": 1606.75,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-BOND": 1606.75
+        }
+      },
+      "CASH-HELD BY TRUSTEE-ARBITRAGE": {
+        "total": 18844.65,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-ARBITRAGE": 18844.65
+        }
+      },
+      "CASH-HELD BY TRUSTEE-CONSTRUCT": {
+        "total": 6500000,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-CONSTRUCT": 6500000
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 8630612.19,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 8630612.19
+        }
+      },
+      "CASH-ACH-SMG AGENT & CENT ARTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-ACH-SMG AGENT & CENT ARTS": 0
+        }
+      },
+      "CASH-DEPARTMENTAL RECEIPTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-DEPARTMENTAL RECEIPTS": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "TRANSPORTATION PRESERVATION": {
+    "total": 7212267.38,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 3134836.56,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 3134836.56
+        }
+      },
+      "RFB-BOND RETIREMENT": {
+        "total": 1254.43,
+        "specifics": {
+          "RFB-BOND RETIREMENT": 1254.43
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 325042.7,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 325042.7
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 145000,
+        "specifics": {
+          "VOUCHERS PAYABLE": 145000
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0.54,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0.54
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 958673.52,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 958673.52
+        }
+      },
+      "CASH-HELD BY TRUSTEE-BOND": {
+        "total": 1254.43,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-BOND": 1254.43
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 2646205.2,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 2646205.2
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "ECON DEV & COMMUNITY RESOURCES": {
+    "total": 35003951.36,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 2165354.65,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 2165354.65
+        }
+      },
+      "NFB-REVOLVING LOAN": {
+        "total": 15198214.82,
+        "specifics": {
+          "NFB-REVOLVING LOAN": 15198214.82
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "RENT DEPOSITS": {
+        "total": 4351.31,
+        "specifics": {
+          "RENT DEPOSITS": 4351.31
+        }
+      },
+      "EDCR-HELD IN ESCROW": {
+        "total": 126830.51,
+        "specifics": {
+          "EDCR-HELD IN ESCROW": 126830.51
+        }
+      },
+      "EDCR-TITLE COMPANIES": {
+        "total": 153,
+        "specifics": {
+          "EDCR-TITLE COMPANIES": 153
+        }
+      },
+      "MISCELLANEOUS TRUST HOLDINGS": {
+        "total": 7071.39,
+        "specifics": {
+          "MISCELLANEOUS TRUST HOLDINGS": 7071.39
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 0,
+        "specifics": {
+          "VOUCHERS PAYABLE": 0
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "A/R ENERGY EFFICIENCY": {
+        "total": 217.08,
+        "specifics": {
+          "A/R ENERGY EFFICIENCY": 217.08
+        }
+      },
+      "A/R HOME PROGRAM": {
+        "total": 12150659.9,
+        "specifics": {
+          "A/R HOME PROGRAM": 12150659.9
+        }
+      },
+      "A/R ECONOMIC DEV RL": {
+        "total": 747621.05,
+        "specifics": {
+          "A/R ECONOMIC DEV RL": 747621.05
+        }
+      },
+      "A/R 108 REVOLVING LOAN": {
+        "total": 261484.12,
+        "specifics": {
+          "A/R 108 REVOLVING LOAN": 261484.12
+        }
+      },
+      "A/R HOUSING REHABILITATION": {
+        "total": 2038232.67,
+        "specifics": {
+          "A/R HOUSING REHABILITATION": 2038232.67
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 2303760.86,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 2303760.86
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "GRANT PROGRAMS FUND": {
+    "total": 40347695.17999999,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 397799.15,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 397799.15
+        }
+      },
+      "AFB-MILESTONE HOUSING PROGRAM": {
+        "total": 9994.51,
+        "specifics": {
+          "AFB-MILESTONE HOUSING PROGRAM": 9994.51
+        }
+      },
+      "CFB - FOR COMPENSATED ABSENCES": {
+        "total": 341485.17,
+        "specifics": {
+          "CFB - FOR COMPENSATED ABSENCES": 341485.17
+        }
+      },
+      "CFB - FOR OPEB": {
+        "total": 143528,
+        "specifics": {
+          "CFB - FOR OPEB": 143528
+        }
+      },
+      "RFB-HOME MATCH": {
+        "total": 132871.45,
+        "specifics": {
+          "RFB-HOME MATCH": 132871.45
+        }
+      },
+      "RFB-AGING SERVICES": {
+        "total": 180935.39,
+        "specifics": {
+          "RFB-AGING SERVICES": 180935.39
+        }
+      },
+      "RFB-BOND RETIREMENT": {
+        "total": 10.21,
+        "specifics": {
+          "RFB-BOND RETIREMENT": 10.21
+        }
+      },
+      "NET POSITION IR - OPEB": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - OPEB": 0
+        }
+      },
+      "NET POSITION IR - COMP ABSENCE": {
+        "total": 0,
+        "specifics": {
+          "NET POSITION IR - COMP ABSENCE": 0
+        }
+      },
+      "NET POSITION - DEBT": {
+        "total": -1138227.44,
+        "specifics": {
+          "NET POSITION - DEBT": -1138227.44
+        }
+      },
+      "NET POSITION UNRESTRICTED": {
+        "total": 3411842.68,
+        "specifics": {
+          "NET POSITION UNRESTRICTED": 3411842.68
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "PRIOR YEARS ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "PRIOR YEARS ENCUMBRANCES": 0
+        }
+      },
+      "UNEARNED REVENUE": {
+        "total": 5095762.98,
+        "specifics": {
+          "UNEARNED REVENUE": 5095762.98
+        }
+      },
+      "DEPOSIT CLEARING ACCNT": {
+        "total": 0,
+        "specifics": {
+          "DEPOSIT CLEARING ACCNT": 0
+        }
+      },
+      "DUE TO GEN FUND-NEGATIVE CASH": {
+        "total": 4366765.09,
+        "specifics": {
+          "DUE TO GEN FUND-NEGATIVE CASH": 4366765.09
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "OBLIG-COMPSATED ABSNC VACATION": {
+        "total": 1138227.44,
+        "specifics": {
+          "OBLIG-COMPSATED ABSNC VACATION": 1138227.44
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 5936.94,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 5936.94
+        }
+      },
+      "ACCRUED EXPENSE PAYABLE": {
+        "total": 3315930.13,
+        "specifics": {
+          "ACCRUED EXPENSE PAYABLE": 3315930.13
+        }
+      },
+      "HSA - WELLNESS INCENTIVE": {
+        "total": 0,
+        "specifics": {
+          "HSA - WELLNESS INCENTIVE": 0
+        }
+      },
+      "EMP INS-REGENCE CO": {
+        "total": 1168,
+        "specifics": {
+          "EMP INS-REGENCE CO": 1168
+        }
+      },
+      "EMP INS-REGENCE EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS-REGENCE EMP": 0
+        }
+      },
+      "EMP INS-REGENCE HSA CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS-REGENCE HSA CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - EMI DENTAL CO": 0
+        }
+      },
+      "EMP INS - EMI DENTAL EMP": {
+        "total": 66,
+        "specifics": {
+          "EMP INS - EMI DENTAL EMP": 66
+        }
+      },
+      "EMP INS - ALTIUS EMP": {
+        "total": 641.23,
+        "specifics": {
+          "EMP INS - ALTIUS EMP": 641.23
+        }
+      },
+      "EMP INS - SELECTHEALTH CO": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH CO": 0
+        }
+      },
+      "EMP INS - SELECTHEALTH EMP": {
+        "total": 0,
+        "specifics": {
+          "EMP INS - SELECTHEALTH EMP": 0
+        }
+      },
+      "EMP INS - SELECTHLTH HSA CO": {
+        "total": 750,
+        "specifics": {
+          "EMP INS - SELECTHLTH HSA CO": 750
+        }
+      },
+      "MEMBERSHIP FEES COLLECTED": {
+        "total": 0,
+        "specifics": {
+          "MEMBERSHIP FEES COLLECTED": 0
+        }
+      },
+      "COUNTY FICA / MEDICARE TAX": {
+        "total": 49164.95,
+        "specifics": {
+          "COUNTY FICA / MEDICARE TAX": 49164.95
+        }
+      },
+      "COUNTY PEHP LTD CONTRIB": {
+        "total": 2608.93,
+        "specifics": {
+          "COUNTY PEHP LTD CONTRIB": 2608.93
+        }
+      },
+      "COUNTY URS 401(K) CONTRIB": {
+        "total": 16101.58,
+        "specifics": {
+          "COUNTY URS 401(K) CONTRIB": 16101.58
+        }
+      },
+      "COUNTY URS PENSION CONTRIB": {
+        "total": 95239.97,
+        "specifics": {
+          "COUNTY URS PENSION CONTRIB": 95239.97
+        }
+      },
+      "EMPLOYEEROTH IRA": {
+        "total": 1097.6,
+        "specifics": {
+          "EMPLOYEEROTH IRA": 1097.6
+        }
+      },
+      "EMPLOYEE TRADITIONAL IRA": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE TRADITIONAL IRA": 0
+        }
+      },
+      "EMP HSA EMPLOYEE HSA CONTRIB": {
+        "total": 7345.16,
+        "specifics": {
+          "EMP HSA EMPLOYEE HSA CONTRIB": 7345.16
+        }
+      },
+      "WAGE ASSIGNMENTS-FEES": {
+        "total": 0,
+        "specifics": {
+          "WAGE ASSIGNMENTS-FEES": 0
+        }
+      },
+      "WAGE ASMTS-401(K) LOAN REPAYME": {
+        "total": 6251.66,
+        "specifics": {
+          "WAGE ASMTS-401(K) LOAN REPAYME": 6251.66
+        }
+      },
+      "DEFERRED COMP-PEBSCO 457": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED COMP-PEBSCO 457": 0
+        }
+      },
+      "EMP DE-EMPLOYEE 401K CONTRIB": {
+        "total": 19535.18,
+        "specifics": {
+          "EMP DE-EMPLOYEE 401K CONTRIB": 19535.18
+        }
+      },
+      "EMP DC EMPLOYEE 457 CONTRIB": {
+        "total": 3120.81,
+        "specifics": {
+          "EMP DC EMPLOYEE 457 CONTRIB": 3120.81
+        }
+      },
+      "EMPLOYEE GARNISHMENTS": {
+        "total": 2409.58,
+        "specifics": {
+          "EMPLOYEE GARNISHMENTS": 2409.58
+        }
+      },
+      "EMPLOYEE ASSOCIATIONS": {
+        "total": 142.5,
+        "specifics": {
+          "EMPLOYEE ASSOCIATIONS": 142.5
+        }
+      },
+      "UNION DUES": {
+        "total": 100,
+        "specifics": {
+          "UNION DUES": 100
+        }
+      },
+      "CHARITABLE CONTRIBUTIONS": {
+        "total": 187,
+        "specifics": {
+          "CHARITABLE CONTRIBUTIONS": 187
+        }
+      },
+      "MISC EMPLOYEE WITHHOLDINGS": {
+        "total": -1.77,
+        "specifics": {
+          "MISC EMPLOYEE WITHHOLDINGS": -1.77
+        }
+      },
+      "STATE WITHHOLDING": {
+        "total": 32684.71,
+        "specifics": {
+          "STATE WITHHOLDING": 32684.71
+        }
+      },
+      "FICA - EMPLOYEE": {
+        "total": 49115.43,
+        "specifics": {
+          "FICA - EMPLOYEE": 49115.43
+        }
+      },
+      "FEDERAL WITHHOLDINGS": {
+        "total": 59571.44,
+        "specifics": {
+          "FEDERAL WITHHOLDINGS": 59571.44
+        }
+      },
+      "CAFETERIA-P\\\\R CLEARING": {
+        "total": 5857.45,
+        "specifics": {
+          "CAFETERIA-P\\\\R CLEARING": 5857.45
+        }
+      },
+      "INSURANCE - HYATT LEGAL": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE - HYATT LEGAL": 0
+        }
+      },
+      "INSURANCE LIBERTY - AUTO HOME": {
+        "total": 1805.14,
+        "specifics": {
+          "INSURANCE LIBERTY - AUTO HOME": 1805.14
+        }
+      },
+      "INSURANCE MET - AUTO HOME": {
+        "total": 0,
+        "specifics": {
+          "INSURANCE MET - AUTO HOME": 0
+        }
+      },
+      "INSURANCE - THE STANDARD STD": {
+        "total": 408.61,
+        "specifics": {
+          "INSURANCE - THE STANDARD STD": 408.61
+        }
+      },
+      "CASH-PAYROLL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-PAYROLL WARRANTS": 0
+        }
+      },
+      "COUNTY - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "COUNTY - LIFE INSURANCE": 0
+        }
+      },
+      "EMPLOYEE - LIFE INSURANCE": {
+        "total": 0,
+        "specifics": {
+          "EMPLOYEE - LIFE INSURANCE": 0
+        }
+      },
+      "ACCRUED PAYROLL": {
+        "total": 450371.09,
+        "specifics": {
+          "ACCRUED PAYROLL": 450371.09
+        }
+      },
+      "ACCOUNTS PAYABLE-DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "ACCOUNTS PAYABLE-DEFAULT": 0
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 1965243.64,
+        "specifics": {
+          "VOUCHERS PAYABLE": 1965243.64
+        }
+      },
+      "ACCUM DEPR MACHINERY & EQUIP": {
+        "total": -1239301.19,
+        "specifics": {
+          "ACCUM DEPR MACHINERY & EQUIP": -1239301.19
+        }
+      },
+      "FURNITURE FIXTURES & EQUIPMENT": {
+        "total": 1740377.69,
+        "specifics": {
+          "FURNITURE FIXTURES & EQUIPMENT": 1740377.69
+        }
+      },
+      "ACCUM DEPR LAND IMPROVEMENTS": {
+        "total": -60556.01,
+        "specifics": {
+          "ACCUM DEPR LAND IMPROVEMENTS": -60556.01
+        }
+      },
+      "ACCUM DEPR LEASEHOLD IMPROVMNT": {
+        "total": -1625640.78,
+        "specifics": {
+          "ACCUM DEPR LEASEHOLD IMPROVMNT": -1625640.78
+        }
+      },
+      "LEASEHOLD IMPROVEMENTS": {
+        "total": 2331303.06,
+        "specifics": {
+          "LEASEHOLD IMPROVEMENTS": 2331303.06
+        }
+      },
+      "LAND IMPROVEMENTS": {
+        "total": 170526,
+        "specifics": {
+          "LAND IMPROVEMENTS": 170526
+        }
+      },
+      "ACCUM DEPR BUILDINGS": {
+        "total": -732969.32,
+        "specifics": {
+          "ACCUM DEPR BUILDINGS": -732969.32
+        }
+      },
+      "BUILDINGS/BLDG IMPROVEMENTS": {
+        "total": 1946472.18,
+        "specifics": {
+          "BUILDINGS/BLDG IMPROVEMENTS": 1946472.18
+        }
+      },
+      "LAND": {
+        "total": 881631.05,
+        "specifics": {
+          "LAND": 881631.05
+        }
+      },
+      "TEMPORARY SUSPENSE": {
+        "total": -8.92,
+        "specifics": {
+          "TEMPORARY SUSPENSE": -8.92
+        }
+      },
+      "PREPAID GRANT EXPENSE": {
+        "total": 254772,
+        "specifics": {
+          "PREPAID GRANT EXPENSE": 254772
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 830279.38,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 830279.38
+        }
+      },
+      "A/R - BILLINGS": {
+        "total": 0,
+        "specifics": {
+          "A/R - BILLINGS": 0
+        }
+      },
+      "A/R - BILLING DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "A/R - BILLING DEFAULT": 0
+        }
+      },
+      "ACCRUED GRANTS RECEIVABLE": {
+        "total": 15593213,
+        "specifics": {
+          "ACCRUED GRANTS RECEIVABLE": 15593213
+        }
+      },
+      "CASH-PETTY (IMPREST)": {
+        "total": 89900,
+        "specifics": {
+          "CASH-PETTY (IMPREST)": 89900
+        }
+      },
+      "CASH-HELD BY TRUSTEE-BOND": {
+        "total": 10.21,
+        "specifics": {
+          "CASH-HELD BY TRUSTEE-BOND": 10.21
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": -6160.76,
+        "specifics": {
+          "CASH-MISCELLANEOUS": -6160.76
+        }
+      },
+      "CASH-DEPARTMENTAL RECEIPTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-DEPARTMENTAL RECEIPTS": 0
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  },
+  "GOVERNMENTAL IMMUNITY FUND": {
+    "total": 8480612.4,
+    "accts": {
+      "FUND BALANCE - UNASSIGNED": {
+        "total": 4147652.55,
+        "specifics": {
+          "FUND BALANCE - UNASSIGNED": 4147652.55
+        }
+      },
+      "CURRENT YEAR ENCUMBRANCES": {
+        "total": 0,
+        "specifics": {
+          "CURRENT YEAR ENCUMBRANCES": 0
+        }
+      },
+      "UNAVAILABLE PROPERTY TAX REVEN": {
+        "total": 58188.34,
+        "specifics": {
+          "UNAVAILABLE PROPERTY TAX REVEN": 58188.34
+        }
+      },
+      "DEFERRED REVENUES": {
+        "total": 0,
+        "specifics": {
+          "DEFERRED REVENUES": 0
+        }
+      },
+      "DUE TO OTHER FUNDS - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE TO OTHER FUNDS - DEFAULT": 0
+        }
+      },
+      "NON-ENCUMBERED PAYABLE": {
+        "total": 0,
+        "specifics": {
+          "NON-ENCUMBERED PAYABLE": 0
+        }
+      },
+      "VOUCHERS PAYABLE": {
+        "total": 34465.31,
+        "specifics": {
+          "VOUCHERS PAYABLE": 34465.31
+        }
+      },
+      "DUE FROM OTHER FUND - DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "DUE FROM OTHER FUND - DEFAULT": 0
+        }
+      },
+      "ACCRUED INTEREST RECEIVABLE": {
+        "total": 0,
+        "specifics": {
+          "ACCRUED INTEREST RECEIVABLE": 0
+        }
+      },
+      "ACCRUED REVENUE RECEIVABLE": {
+        "total": 9288.9,
+        "specifics": {
+          "ACCRUED REVENUE RECEIVABLE": 9288.9
+        }
+      },
+      "A/R - BILLING DEFAULT": {
+        "total": 0,
+        "specifics": {
+          "A/R - BILLING DEFAULT": 0
+        }
+      },
+      "ACCRUED TAX RECEIVABLE": {
+        "total": 63908.98,
+        "specifics": {
+          "ACCRUED TAX RECEIVABLE": 63908.98
+        }
+      },
+      "CASH-PETTY (IMPREST)": {
+        "total": 100000,
+        "specifics": {
+          "CASH-PETTY (IMPREST)": 100000
+        }
+      },
+      "CASH-MISCELLANEOUS": {
+        "total": 4067108.32,
+        "specifics": {
+          "CASH-MISCELLANEOUS": 4067108.32
+        }
+      },
+      "CASH-PTIF-LOC-PROP-INT": {
+        "total": 0,
+        "specifics": {
+          "CASH-PTIF-LOC-PROP-INT": 0
+        }
+      },
+      "CASH-TRANS REPAYMENT": {
+        "total": 0,
+        "specifics": {
+          "CASH-TRANS REPAYMENT": 0
+        }
+      },
+      "CASH-EFTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-EFTS": 0
+        }
+      },
+      "CASH-GENERAL WARRANTS": {
+        "total": 0,
+        "specifics": {
+          "CASH-GENERAL WARRANTS": 0
+        }
+      }
+    }
+  }
+}
