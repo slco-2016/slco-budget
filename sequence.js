@@ -88,7 +88,7 @@ function mouseover(d) {
       .style("visibility", "");
 
   var sequenceArray = getAncestors(d);
-  updateBreadcrumbs(sequenceArray, "$" + Math.round((100 * d.value))/100);
+  updateBreadcrumbs(sequenceArray, "$" + (Math.round((100 * d.value))/100).toLocaleString());
 
   // Fade all the segments.
   d3.selectAll("path")
